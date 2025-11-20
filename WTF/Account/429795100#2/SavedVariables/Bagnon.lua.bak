@@ -13,7 +13,9 @@ Bagnon_Sets = {
 1,
 },
 ["latest"] = {
+["id"] = "11.2.15",
 ["cooldown"] = 1764114885,
+["who"] = "Tastemyseed-Spineshatter",
 },
 ["color"] = {
 ["quiver"] = {
@@ -24,15 +26,15 @@ Bagnon_Sets = {
 },
 ["soul"] = {
 },
-["reagent"] = {
+["fridge"] = {
 },
 ["mine"] = {
 },
 ["engineer"] = {
 },
-["inscribe"] = {
+["leather"] = {
 },
-["fridge"] = {
+["reagent"] = {
 },
 ["gem"] = {
 },
@@ -40,17 +42,15 @@ Bagnon_Sets = {
 },
 ["tackle"] = {
 },
-["leather"] = {
+["inscribe"] = {
 },
 ["normal"] = {
 },
 ["herb"] = {
 },
 },
-["inscribeColor"] = {
-},
-["soulColor"] = {
-},
+["glowPoor"] = false,
+["glowUnusable"] = false,
 ["refrigeColor"] = {
 },
 ["glowQuest"] = false,
@@ -65,6 +65,25 @@ Bagnon_Sets = {
 ["reagentColor"] = {
 },
 ["gemColor"] = {
+},
+["enchantColor"] = {
+},
+["glowAlpha"] = 0.5,
+["glowQuality"] = true,
+["keyColor"] = {
+},
+["normalColor"] = {
+},
+["profiles"] = {
+},
+["mineColor"] = {
+},
+["fridgeColor"] = {
+},
+["version"] = "10.1.14",
+["customRules"] = {
+},
+["display"] = {
 },
 ["global"] = {
 ["inventory"] = {
@@ -165,25 +184,8 @@ Bagnon_Sets = {
 ["alpha"] = 1,
 },
 },
-["glowAlpha"] = 0.5,
-["glowQuality"] = true,
-["keyColor"] = {
+["soulColor"] = {
 },
-["normalColor"] = {
+["inscribeColor"] = {
 },
-["profiles"] = {
-},
-["mineColor"] = {
-},
-["fridgeColor"] = {
-},
-["version"] = "10.1.14",
-["customRules"] = {
-},
-["display"] = {
-},
-["enchantColor"] = {
-},
-["glowUnusable"] = false,
-["glowPoor"] = false,
 }

@@ -1523,10 +1523,10 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-[":pleading_face:"] = {
-26,
-19,
-9,
+["rooRave"] = {
+0,
+0,
+1,
 },
 ["Wokegesus"] = {
 0,
@@ -1683,15 +1683,15 @@ TwitchEmoteStatistics = {
 0,
 6,
 },
-["PepePoint"] = {
-0,
-0,
-6,
-},
 ["peepoLove"] = {
 0,
 0,
 4,
+},
+["PepePoint"] = {
+0,
+0,
+6,
 },
 [":wink:"] = {
 6,
@@ -1886,7 +1886,7 @@ TwitchEmoteStatistics = {
 ["Kiss"] = {
 0,
 0,
-240,
+250,
 },
 ["monkaTOS"] = {
 0,
@@ -1898,20 +1898,20 @@ TwitchEmoteStatistics = {
 0,
 18,
 },
-[":wheelchair:"] = {
+["peepoEhm"] = {
 0,
 0,
-2,
+3,
 },
 ["danLol"] = {
 0,
 0,
 1,
 },
-["moon2E"] = {
+["KEKGA"] = {
 0,
 0,
-1,
+3,
 },
 ["gachiBASS"] = {
 0,
@@ -1943,10 +1943,10 @@ TwitchEmoteStatistics = {
 2,
 10,
 },
-["peepoEhm"] = {
+[":wheelchair:"] = {
 0,
 0,
-3,
+2,
 },
 [":book:"] = {
 0,
@@ -1963,20 +1963,20 @@ TwitchEmoteStatistics = {
 1,
 4,
 },
-["peepaSexy"] = {
+["WideBrug"] = {
 0,
 0,
-1,
+4,
 },
 ["sajj"] = {
 2,
 4,
 7,
 },
-["WideBrug"] = {
+["FeelsIncredibleMan"] = {
 0,
 0,
-4,
+1,
 },
 ["DocLeave"] = {
 0,
@@ -2003,7 +2003,7 @@ TwitchEmoteStatistics = {
 0,
 39,
 },
-["FeelsIncredibleMan"] = {
+["peepaSexy"] = {
 0,
 0,
 1,
@@ -2013,12 +2013,12 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["peepoTired"] = {
+[":fluff2:"] = {
 0,
 0,
 1,
 },
-[":fluff2:"] = {
+["peepoTired"] = {
 0,
 0,
 1,
@@ -2108,10 +2108,10 @@ TwitchEmoteStatistics = {
 0,
 3,
 },
-["PEPE"] = {
+["4House"] = {
 0,
 0,
-4,
+1,
 },
 ["PepeSmug"] = {
 0,
@@ -2128,20 +2128,20 @@ TwitchEmoteStatistics = {
 0,
 4,
 },
-["4House"] = {
+["PEPE"] = {
 0,
 0,
-1,
+4,
 },
 ["peepoPing"] = {
 0,
 0,
 1,
 },
-["peepoCringe"] = {
+["endHarambe"] = {
 0,
 0,
-2,
+1,
 },
 [":flushed:"] = {
 5,
@@ -2243,25 +2243,25 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-["2Head"] = {
-0,
-0,
-7,
-},
 ["sadgers"] = {
 4,
 6,
 77,
+},
+["Oodam"] = {
+0,
+0,
+1,
 },
 ["esfand4"] = {
 0,
 0,
 13,
 },
-["Oodam"] = {
+["2Head"] = {
 0,
 0,
-1,
+7,
 },
 ["1Head"] = {
 0,
@@ -2303,7 +2303,7 @@ TwitchEmoteStatistics = {
 0,
 5,
 },
-[":door:"] = {
+["monkaH"] = {
 0,
 0,
 1,
@@ -2313,7 +2313,7 @@ TwitchEmoteStatistics = {
 0,
 5,
 },
-["monkaH"] = {
+[":door:"] = {
 0,
 0,
 1,
@@ -2388,20 +2388,20 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["OMEGAEZ"] = {
-0,
-0,
-1,
-},
-[":peach:"] = {
-0,
-0,
-3,
-},
 ["dejj"] = {
 0,
 0,
 3,
+},
+["weed3"] = {
+0,
+0,
+1,
+},
+["OMEGAEZ"] = {
+0,
+0,
+1,
 },
 ["sodaC"] = {
 0,
@@ -2418,10 +2418,10 @@ TwitchEmoteStatistics = {
 0,
 8,
 },
-["weed3"] = {
+[":peach:"] = {
 0,
 0,
-1,
+3,
 },
 ["cmonBruv"] = {
 0,
@@ -2463,7 +2463,7 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-["MrDestructoid"] = {
+["Bedges"] = {
 0,
 0,
 2,
@@ -2473,15 +2473,15 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
+["MrDestructoid"] = {
+0,
+0,
+2,
+},
 ["SeemsHalal"] = {
 0,
 0,
 1,
-},
-["Bedges"] = {
-0,
-0,
-2,
 },
 ["peepoKEKW"] = {
 0,
@@ -2558,7 +2558,7 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["CatMad"] = {
+["PogCat"] = {
 0,
 0,
 1,
@@ -2618,10 +2618,10 @@ TwitchEmoteStatistics = {
 0,
 3,
 },
-["Awoo"] = {
+[":stabby:"] = {
 0,
 0,
-2,
+1,
 },
 ["TriHard"] = {
 0,
@@ -2633,10 +2633,10 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-[":stabby:"] = {
+["PogWarts"] = {
 0,
 0,
-1,
+21,
 },
 ["forsenCD"] = {
 0,
@@ -2873,25 +2873,25 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["monkaS"] = {
-3,
-3,
-36,
-},
-["cumboost"] = {
-0,
-0,
-3,
-},
 ["peepoPoint"] = {
 0,
 0,
 1,
 },
-["02Uwu"] = {
+["KEKE"] = {
 0,
 0,
-4,
+1,
+},
+["monkaS"] = {
+3,
+3,
+36,
+},
+["peepoTeddy"] = {
+0,
+0,
+1,
 },
 ["xqcL"] = {
 0,
@@ -2913,10 +2913,10 @@ TwitchEmoteStatistics = {
 1,
 72,
 },
-["peepoTeddy"] = {
+["02Uwu"] = {
 0,
 0,
-1,
+4,
 },
 ["NotLikeThis"] = {
 0,
@@ -2958,7 +2958,7 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["Britpega"] = {
+["shrekSR"] = {
 0,
 0,
 1,
@@ -2978,15 +2978,15 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-["UHM"] = {
-0,
-0,
-5,
-},
 ["monkaInsane"] = {
 0,
 0,
 3,
+},
+["UHM"] = {
+0,
+0,
+5,
 },
 ["KEKok"] = {
 0,
@@ -2998,10 +2998,10 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["HYPEROMEGAPOGGERSCRAZY"] = {
+["YodaSip"] = {
 0,
 0,
-5,
+1,
 },
 ["haHAA"] = {
 0,
@@ -3023,10 +3023,10 @@ TwitchEmoteStatistics = {
 0,
 8,
 },
-["YodaSip"] = {
+["HYPEROMEGAPOGGERSCRAZY"] = {
 0,
 0,
-1,
+5,
 },
 ["VoHiYo"] = {
 0,
@@ -3223,25 +3223,25 @@ TwitchEmoteStatistics = {
 0,
 13,
 },
-[":skull:"] = {
-1,
-1,
-69,
+[":Concerned:"] = {
+0,
+0,
+3,
 },
 ["noxSorry"] = {
 0,
 0,
 1,
 },
-["YEE"] = {
-0,
-0,
-2,
-},
-[":Concerned:"] = {
+["peepoShy"] = {
 0,
 0,
 3,
+},
+["danRekt"] = {
+0,
+0,
+1,
 },
 [":Classic:"] = {
 0,
@@ -3273,20 +3273,20 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["HYPERS"] = {
+["cmoN"] = {
 0,
 0,
-37,
+5,
 },
 ["RSmile"] = {
 0,
 0,
 1,
 },
-["cmoN"] = {
+["Krug"] = {
 0,
 0,
-5,
+203,
 },
 ["BabyRage"] = {
 0,
@@ -3338,10 +3338,10 @@ TwitchEmoteStatistics = {
 6,
 25,
 },
-["Krug"] = {
+["HYPERS"] = {
 0,
 0,
-203,
+37,
 },
 ["DoritosChip"] = {
 0,
@@ -3358,15 +3358,15 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-["danRekt"] = {
-0,
-0,
+[":skull:"] = {
 1,
+1,
+69,
 },
-["peepoShy"] = {
+["YEE"] = {
 0,
 0,
-3,
+2,
 },
 [":ew:"] = {
 1,
@@ -3518,7 +3518,7 @@ TwitchEmoteStatistics = {
 2,
 8,
 },
-["shrekSR"] = {
+["Britpega"] = {
 0,
 0,
 1,
@@ -3543,10 +3543,10 @@ TwitchEmoteStatistics = {
 0,
 3,
 },
-["KEKE"] = {
+["cumboost"] = {
 0,
 0,
-1,
+3,
 },
 ["HeyGuys"] = {
 0,
@@ -3683,10 +3683,10 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-["PogWarts"] = {
+["Awoo"] = {
 0,
 0,
-21,
+2,
 },
 ["peepoCry"] = {
 1,
@@ -3708,7 +3708,7 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-["PogCat"] = {
+["CatMad"] = {
 0,
 0,
 1,
@@ -3918,10 +3918,10 @@ TwitchEmoteStatistics = {
 0,
 7,
 },
-["zubUWU"] = {
+["peepoCringe"] = {
 0,
 0,
-4,
+2,
 },
 ["peepoVW"] = {
 0,
@@ -3933,10 +3933,10 @@ TwitchEmoteStatistics = {
 0,
 1,
 },
-["endHarambe"] = {
+["zubUWU"] = {
 0,
 0,
-1,
+4,
 },
 ["rooW"] = {
 0,
@@ -3998,10 +3998,10 @@ TwitchEmoteStatistics = {
 1,
 0,
 },
-["KEKGA"] = {
+["moon2E"] = {
 0,
 0,
-3,
+1,
 },
 ["natiSleeper"] = {
 0,
@@ -4188,10 +4188,10 @@ TwitchEmoteStatistics = {
 0,
 2,
 },
-["rooRave"] = {
-0,
-0,
-1,
+[":pleading_face:"] = {
+26,
+19,
+9,
 },
 ["PepeDent"] = {
 0,

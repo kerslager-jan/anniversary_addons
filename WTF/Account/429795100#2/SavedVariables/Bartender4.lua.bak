@@ -502,7 +502,7 @@ nil,
 },
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["actionbars"] = {
 {
 ["padding"] = 6,
@@ -678,40 +678,40 @@ nil,
 },
 {
 ["rows"] = 6,
-["fadeout"] = true,
+["fadeoutdelay"] = 0,
 ["skin"] = {
 ["Zoom"] = true,
 },
 ["enabled"] = true,
-["fadeoutalpha"] = 0,
 ["version"] = 3,
+["fadeoutalpha"] = 0,
 ["position"] = {
 ["y"] = -187.025019571558,
 ["x"] = -77.24997402438021,
 ["point"] = "RIGHT",
 ["scale"] = 0.800000011920929,
 },
-["fadeoutdelay"] = 0,
+["fadeout"] = true,
 ["visibility"] = {
 ["combat"] = false,
 },
 },
 {
 ["rows"] = 6,
-["fadeout"] = true,
+["fadeoutdelay"] = 0,
 ["skin"] = {
 ["Zoom"] = true,
 },
 ["enabled"] = true,
-["fadeoutalpha"] = 0,
 ["version"] = 3,
+["fadeoutalpha"] = 0,
 ["position"] = {
 ["y"] = -187.5176953601495,
 ["x"] = -138.0499749303708,
 ["point"] = "RIGHT",
 ["scale"] = 0.800000011920929,
 },
-["fadeoutdelay"] = 0,
+["fadeout"] = true,
 ["visibility"] = {
 ["combat"] = false,
 },
@@ -806,7 +806,7 @@ nil,
 },
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["actionbars"] = {
 {
 ["padding"] = 6,
@@ -1060,7 +1060,7 @@ nil,
 },
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["actionbars"] = {
 {
 ["padding"] = 6,
@@ -1075,14 +1075,14 @@ nil,
 ["enabled"] = false,
 ["version"] = 3,
 ["position"] = {
-["y"] = -227.5,
-["x"] = -231.4998779296875,
+["y"] = -228.5,
+["x"] = -230.499755859375,
 ["point"] = "CENTER",
 },
 },
 {
-["rows"] = 12,
 ["padding"] = 5,
+["rows"] = 12,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 610,
@@ -1091,8 +1091,8 @@ nil,
 },
 },
 {
-["rows"] = 12,
 ["padding"] = 5,
+["rows"] = 12,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 610,
@@ -1204,74 +1204,7 @@ nil,
 },
 },
 },
-["Gawhaarsk - Gehennas"] = {
-["actionbars"] = {
-{
-["padding"] = 6,
-["version"] = 3,
-["position"] = {
-["y"] = 41.75,
-["x"] = -510,
-["point"] = "BOTTOM",
-},
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["position"] = {
-["y"] = -204.999969482422,
-["x"] = -231.499816894531,
-["point"] = "CENTER",
-},
-},
-{
-["rows"] = 12,
-["padding"] = 5,
-["version"] = 3,
-["position"] = {
-["y"] = 610,
-["x"] = -82,
-["point"] = "BOTTOMRIGHT",
-},
-},
-{
-["rows"] = 12,
-["padding"] = 5,
-["version"] = 3,
-["position"] = {
-["y"] = 610,
-["x"] = -42,
-["point"] = "BOTTOMRIGHT",
-},
-},
-{
-["padding"] = 6,
-["version"] = 3,
-["position"] = {
-["y"] = 110,
-["x"] = 3,
-["point"] = "BOTTOM",
-},
-},
-{
-["padding"] = 6,
-["version"] = 3,
-["position"] = {
-["y"] = 110,
-["x"] = -510,
-["point"] = "BOTTOM",
-},
-},
-{
-},
-{
-},
-nil,
-{
-},
-},
-},
-["Gawshaark - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["actionbars"] = {
 {
 ["padding"] = 6,
@@ -1343,7 +1276,7 @@ nil,
 },
 },
 },
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["actionbars"] = {
 {
 ["padding"] = 6,
@@ -1358,8 +1291,8 @@ nil,
 ["enabled"] = false,
 ["version"] = 3,
 ["position"] = {
-["y"] = -228.5,
-["x"] = -230.499755859375,
+["y"] = -227.5,
+["x"] = -231.4998779296875,
 ["point"] = "CENTER",
 },
 },
@@ -1510,6 +1443,78 @@ nil,
 ["x"] = -4.72198486328125,
 ["point"] = "BOTTOM",
 },
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["WARLOCK"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
 },
 {
 },
@@ -2230,7 +2235,7 @@ nil,
 },
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["actionbars"] = {
 {
 ["padding"] = 6,
@@ -2245,14 +2250,14 @@ nil,
 ["enabled"] = false,
 ["version"] = 3,
 ["position"] = {
-["y"] = -228.5,
-["x"] = -230.499755859375,
+["y"] = -204.999969482422,
+["x"] = -231.499816894531,
 ["point"] = "CENTER",
 },
 },
 {
-["padding"] = 5,
 ["rows"] = 12,
+["padding"] = 5,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 610,
@@ -2261,8 +2266,8 @@ nil,
 },
 },
 {
-["padding"] = 5,
 ["rows"] = 12,
+["padding"] = 5,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 610,
@@ -2292,17 +2297,12 @@ nil,
 },
 {
 },
+nil,
 {
 },
-{
-},
-[13] = {
-},
-[15] = {
 },
 },
-},
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["actionbars"] = {
 {
 ["padding"] = 6,
@@ -2628,7 +2628,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["6bars "] = {
+["Gawsharkgodx - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -224.4999694824219,
@@ -2636,7 +2636,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawsharkgodx - Garalon"] = {
+["6bars "] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -224.4999694824219,
@@ -2652,7 +2652,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["WARLOCK"] = {
+["Gawshark - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -224.4999694824219,
@@ -2676,7 +2676,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Default"] = {
+["WARLOCK"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -224.4999694824219,
@@ -2684,7 +2684,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawshark - Garalon"] = {
+["Default"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -224.4999694824219,
@@ -2770,13 +2770,13 @@ nil,
 ["scale"] = 1,
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 42,
+["scale"] = 1,
 ["x"] = 33,
 ["point"] = "BOTTOM",
-["scale"] = 1,
+["y"] = 42,
 },
 },
 ["mage ds"] = {
@@ -2799,13 +2799,13 @@ nil,
 ["scale"] = 1,
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
-["scale"] = 1,
+["y"] = 42,
 ["x"] = 33,
 ["point"] = "BOTTOM",
-["y"] = 42,
+["scale"] = 1,
 },
 },
 ["Gawsharkuwu - Garalon"] = {
@@ -2827,7 +2827,7 @@ nil,
 ["scale"] = 1,
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["padding"] = -2,
 ["version"] = 3,
 ["position"] = {
@@ -2846,7 +2846,16 @@ nil,
 ["scale"] = 1,
 },
 },
-["Gawhaarsk - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawh - Thekal"] = {
 ["padding"] = -2,
 ["version"] = 3,
 ["position"] = {
@@ -2854,25 +2863,6 @@ nil,
 ["x"] = 33,
 ["point"] = "BOTTOM",
 ["scale"] = 1,
-},
-},
-["Gawshaark - Gehennas"] = {
-["padding"] = -2,
-["version"] = 3,
-["position"] = {
-["y"] = 42,
-["x"] = 33,
-["point"] = "BOTTOM",
-["scale"] = 1,
-},
-},
-["WARLOCK"] = {
-["version"] = 3,
-["position"] = {
-["scale"] = 1,
-["x"] = 33,
-["point"] = "BOTTOM",
-["y"] = 42,
 },
 },
 ["Default"] = {
@@ -2883,6 +2873,15 @@ nil,
 ["x"] = -392.991943359375,
 ["point"] = "BOTTOMRIGHT",
 ["scale"] = 1,
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 33,
+["point"] = "BOTTOM",
+["y"] = 42,
 },
 },
 ["HEALING NEW CATA"] = {
@@ -2971,7 +2970,8 @@ nil,
 ["scale"] = 1,
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
+["padding"] = -2,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -2980,7 +2980,7 @@ nil,
 ["scale"] = 1,
 },
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -3075,7 +3075,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3104,7 +3104,7 @@ nil,
 ["scale"] = 0.899999976158142,
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3132,7 +3132,7 @@ nil,
 ["scale"] = 0.9,
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3150,7 +3150,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhaarsk - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3159,16 +3159,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawshaark - Gehennas"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 54,
-["x"] = -514,
-["point"] = "BOTTOM",
-},
-},
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3185,6 +3176,15 @@ nil,
 ["x"] = -460.8,
 ["point"] = "BOTTOM",
 ["scale"] = 0.9,
+},
+},
+["WARLOCK"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
 },
 },
 ["HEALING NEW CATA"] = {
@@ -3270,7 +3270,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3279,7 +3279,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3433,7 +3433,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3458,7 +3458,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3484,7 +3484,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3502,7 +3502,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhaarsk - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3511,16 +3511,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawshaark - Gehennas"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 47,
-["x"] = -512,
-["point"] = "BOTTOM",
-},
-},
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3530,6 +3521,15 @@ nil,
 },
 },
 ["Default"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["WARLOCK"] = {
+["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 47,
@@ -3616,7 +3616,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3625,7 +3625,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -3729,7 +3729,7 @@ nil,
 ["scale"] = 0.9,
 ["keyring"] = false,
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["verticalAlignment"] = "CENTER",
 ["version"] = 3,
 ["position"] = {
@@ -3761,7 +3761,7 @@ nil,
 ["scale"] = 1.20000004768372,
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["verticalAlignment"] = "CENTER",
 ["version"] = 3,
 ["position"] = {
@@ -3793,12 +3793,13 @@ nil,
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
+["verticalAlignment"] = "CENTER",
 ["padding"] = 4,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
-["x"] = 303,
+["x"] = 304,
 ["point"] = "BOTTOM",
 },
 },
@@ -3813,23 +3814,34 @@ nil,
 ["scale"] = 0.9,
 ["keyring"] = false,
 },
-["Gawhaarsk - Gehennas"] = {
-["padding"] = 5,
+["Gawsharkxd - Garalon"] = {
+["verticalAlignment"] = "CENTER",
 ["version"] = 3,
 ["position"] = {
-["y"] = 41,
-["x"] = 296,
+["y"] = 38,
+["x"] = 346,
 ["point"] = "BOTTOM",
 },
+["scale"] = 0.9,
+["keyring"] = false,
 },
-["Gawshaark - Gehennas"] = {
-["verticalAlignment"] = "CENTER",
+["Gawh - Thekal"] = {
 ["padding"] = 4,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
-["x"] = 304,
+["x"] = 303,
 ["point"] = "BOTTOM",
+},
+},
+["Default"] = {
+["onebag"] = true,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 44.50000762939453,
+["x"] = -124.0557861328125,
+["point"] = "BOTTOMRIGHT",
 },
 },
 ["WARLOCK"] = {
@@ -3842,16 +3854,6 @@ nil,
 },
 ["scale"] = 0.9,
 ["keyring"] = false,
-},
-["Default"] = {
-["onebag"] = true,
-["padding"] = 5,
-["version"] = 3,
-["position"] = {
-["y"] = 44.50000762939453,
-["x"] = -124.0557861328125,
-["point"] = "BOTTOMRIGHT",
-},
 },
 ["HEALING NEW CATA"] = {
 ["padding"] = 5,
@@ -3947,18 +3949,16 @@ nil,
 ["scale"] = 0.9,
 ["keyring"] = false,
 },
-["Gawsharkxd - Garalon"] = {
-["verticalAlignment"] = "CENTER",
+["Gawhaarsk - Gehennas"] = {
+["padding"] = 5,
 ["version"] = 3,
 ["position"] = {
-["y"] = 38,
-["x"] = 346,
+["y"] = 41,
+["x"] = 296,
 ["point"] = "BOTTOM",
 },
-["scale"] = 0.9,
-["keyring"] = false,
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["verticalAlignment"] = "CENTER",
 ["version"] = 3,
 ["position"] = {
@@ -4049,7 +4049,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42.50003051757813,
@@ -4073,7 +4073,7 @@ nil,
 ["point"] = "BOTTOMLEFT",
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42.50003051757813,
@@ -4097,7 +4097,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42.50003051757813,
@@ -4113,15 +4113,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawhaarsk - Gehennas"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 42.5000305175781,
-["x"] = 104.5,
-["point"] = "CENTER",
-},
-},
-["Gawshaark - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42.50003051757813,
@@ -4129,7 +4121,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42.50003051757813,
@@ -4143,6 +4135,14 @@ nil,
 ["y"] = 208.4647674560547,
 ["x"] = 448.5510559082031,
 ["point"] = "BOTTOMLEFT",
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
 },
 },
 ["HEALING NEW CATA"] = {
@@ -4217,15 +4217,15 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 42.50003051757813,
-["x"] = 104.500244140625,
+["y"] = 42.5000305175781,
+["x"] = 104.5,
 ["point"] = "CENTER",
 },
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42.50003051757813,
@@ -4312,13 +4312,13 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 143,
+["scale"] = 1,
 ["x"] = -460,
 ["point"] = "BOTTOM",
-["scale"] = 1,
+["y"] = 143,
 },
 },
 ["mage ds"] = {
@@ -4341,13 +4341,12 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
-["scale"] = 1,
-["x"] = -460,
-["point"] = "BOTTOM",
-["y"] = 143,
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
 },
 },
 ["Gawsharkuwu - Garalon"] = {
@@ -4370,7 +4369,7 @@ nil,
 ["Zoom"] = true,
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99998474121094,
@@ -4386,15 +4385,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawhaarsk - Gehennas"] = {
-["version"] = 3,
-["position"] = {
-["y"] = -14.9999847412109,
-["x"] = -82.4999542236328,
-["point"] = "CENTER",
-},
-},
-["Gawshaark - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99998474121094,
@@ -4402,7 +4393,7 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99998474121094,
@@ -4419,6 +4410,14 @@ nil,
 ["y"] = 157.5,
 ["x"] = 338.4556732177734,
 ["point"] = "BOTTOMLEFT",
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
 },
 },
 ["HEALING NEW CATA"] = {
@@ -4502,20 +4501,21 @@ nil,
 ["point"] = "CENTER",
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99998474121094,
-["x"] = -82.49993896484375,
+["y"] = -14.9999847412109,
+["x"] = -82.4999542236328,
 ["point"] = "CENTER",
 },
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99998474121094,
-["x"] = -82.49993896484375,
-["point"] = "CENTER",
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
 },
 },
 ["Yaboipeon - Garalon"] = {
@@ -4595,7 +4595,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 143,
@@ -4622,11 +4622,11 @@ nil,
 ["point"] = "BOTTOMLEFT",
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 143,
-["x"] = -120,
+["x"] = -460,
 ["point"] = "BOTTOM",
 },
 },
@@ -4649,7 +4649,7 @@ nil,
 ["Zoom"] = true,
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 143,
@@ -4665,7 +4665,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhaarsk - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 143,
@@ -4673,15 +4673,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawshaark - Gehennas"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 143,
-["x"] = -460,
-["point"] = "BOTTOM",
-},
-},
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 143,
@@ -4695,6 +4687,14 @@ nil,
 ["y"] = 168.0000457763672,
 ["x"] = 449.0670776367188,
 ["point"] = "BOTTOMLEFT",
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
 },
 },
 ["HEALING NEW CATA"] = {
@@ -4772,7 +4772,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 143,
@@ -4780,11 +4780,11 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 143,
-["x"] = -460,
+["x"] = -120,
 ["point"] = "BOTTOM",
 },
 },
@@ -4871,7 +4871,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -4899,7 +4899,7 @@ nil,
 ["point"] = "BOTTOMLEFT",
 },
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -4927,7 +4927,7 @@ nil,
 ["scale"] = 0.8999999761581421,
 },
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -4945,7 +4945,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhaarsk - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -4954,16 +4954,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawshaark - Gehennas"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 61,
-["x"] = -514,
-["point"] = "BOTTOM",
-},
-},
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -4980,6 +4971,15 @@ nil,
 ["x"] = 449.4224368248397,
 ["point"] = "BOTTOMLEFT",
 ["scale"] = 0.8999999761581421,
+},
+},
+["WARLOCK"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
 },
 },
 ["HEALING NEW CATA"] = {
@@ -5065,7 +5065,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -5074,7 +5074,7 @@ nil,
 ["point"] = "BOTTOM",
 },
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -5133,9 +5133,9 @@ nil,
 ["Gawhaarsk - Thekal"] = "Default",
 ["Gawshark - Garalon"] = "Gawshark - Garalon",
 ["Gawshark - Golemagg"] = "Default",
-["Gawh - Thekal"] = "Default",
-["Gawhaarsk - Gehennas"] = "mage ds",
 ["Gawshaark - Gehennas"] = "mage ds",
+["Gawhaarsk - Gehennas"] = "mage ds",
+["Gawh - Thekal"] = "Default",
 ["Gawsharkgodx - Garalon"] = "Gawsharkgodx - Garalon",
 ["Gawharsk - Gehennas"] = "mage ds",
 ["Gawhbank - Gehennas"] = "6bars ",
@@ -5191,7 +5191,7 @@ nil,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Gawhbanktwo - Garalon"] = {
+["Gawsharkosák - Gehennas"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5213,7 +5213,7 @@ nil,
 },
 ["outofrange"] = "hotkey",
 },
-["Gawsharkosák - Gehennas"] = {
+["Gawhbank - Garalon"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5231,7 +5231,7 @@ nil,
 ["onkeydown"] = true,
 ["outofrange"] = "hotkey",
 },
-["Gawh - Thekal"] = {
+["Gawshaark - Gehennas"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5241,20 +5241,12 @@ nil,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Gawhaarsk - Gehennas"] = {
-["focuscastmodifier"] = false,
-["blizzardVehicle"] = true,
-["minimapIcon"] = {
-["minimapPos"] = 197.334415757056,
-},
-["outofrange"] = "hotkey",
-},
-["Gawshaark - Gehennas"] = {
+["Gawsharkxd - Garalon"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["WARLOCK"] = {
+["Gawh - Thekal"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5265,6 +5257,11 @@ nil,
 ["hide"] = true,
 },
 ["onkeydown"] = true,
+["outofrange"] = "hotkey",
+},
+["WARLOCK"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
 ["HEALING NEW CATA"] = {
@@ -5322,12 +5319,15 @@ nil,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Gawsharkxd - Garalon"] = {
+["Gawhaarsk - Gehennas"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 197.334415757056,
+},
 ["outofrange"] = "hotkey",
 },
-["Gawhbank - Garalon"] = {
+["Gawhbanktwo - Garalon"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",

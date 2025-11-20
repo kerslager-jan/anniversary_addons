@@ -12,29 +12,12 @@ Bagnon_Sets = {
 0.117647058823529,
 1,
 },
-["glowPoor"] = false,
-["glowUnusable"] = false,
 ["inscribeColor"] = {
 },
 ["soulColor"] = {
 },
-["enchantColor"] = {
-},
-["glowQuest"] = false,
-["display"] = {
-},
-["quiverColor"] = {
-1,
-0.662745098039216,
-0.117647058823529,
-1,
-},
-["normalColor"] = {
-},
-["reagentColor"] = {
-},
-["gemColor"] = {
-},
+["glowPoor"] = false,
+["glowUnusable"] = false,
 ["global"] = {
 ["inventory"] = {
 ["rules"] = {
@@ -134,6 +117,23 @@ Bagnon_Sets = {
 ["point"] = "TOPLEFT",
 },
 },
+["glowQuest"] = false,
+["display"] = {
+},
+["quiverColor"] = {
+1,
+0.662745098039216,
+0.117647058823529,
+1,
+},
+["normalColor"] = {
+},
+["reagentColor"] = {
+},
+["gemColor"] = {
+},
+["enchantColor"] = {
+},
 ["glowAlpha"] = 0.5,
 ["profiles"] = {
 },
@@ -160,15 +160,15 @@ Bagnon_Sets = {
 },
 ["soul"] = {
 },
-["leather"] = {
+["inscribe"] = {
 },
 ["mine"] = {
 },
 ["gem"] = {
 },
-["inscribe"] = {
+["leather"] = {
 },
-["reagent"] = {
+["fridge"] = {
 },
 ["engineer"] = {
 },
@@ -176,7 +176,7 @@ Bagnon_Sets = {
 },
 ["tackle"] = {
 },
-["fridge"] = {
+["reagent"] = {
 },
 ["enchant"] = {
 },
