@@ -1,0 +1,5346 @@
+
+Bartender4DB = {
+["namespaces"] = {
+["ActionBars"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawshaark - Spineshatter"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawheuwef - Razorgore"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -204.999969482422,
+["x"] = -231.499816894531,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+nil,
+{
+},
+},
+},
+["SHAMAN"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -204.999969482422,
+["x"] = -231.499816894531,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Yaboipeon - Gehennas"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Ondogx - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Yaboipeon - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawhbank - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["mage ds"] = {
+["actionbars"] = {
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 38.00000677108756,
+["x"] = -438.2059850795167,
+["point"] = "BOTTOM",
+["scale"] = 0.949999988079071,
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 38.00000677108756,
+["x"] = -5.385390382525657,
+["point"] = "BOTTOM",
+["scale"] = 0.949999988079071,
+},
+},
+{
+["rows"] = 12,
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 246.9999508029541,
+["x"] = -77.10007680772833,
+["point"] = "RIGHT",
+["scale"] = 0.949999988079071,
+},
+},
+{
+["rows"] = 12,
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 247,
+["x"] = -41,
+["point"] = "RIGHT",
+["scale"] = 0.9500000000000001,
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 74.1000280618664,
+["x"] = -438.2057386500765,
+["point"] = "BOTTOM",
+["scale"] = 0.949999988079071,
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 74.1000280618664,
+["x"] = -5.005947027912043,
+["point"] = "BOTTOM",
+["scale"] = 0.949999988079071,
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 110.2000348567958,
+["x"] = -438.205825625173,
+["point"] = "BOTTOM",
+["scale"] = 0.949999988079071,
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 110.2000348567958,
+["x"] = -5.005541144128074,
+["point"] = "BOTTOM",
+["scale"] = 0.949999988079071,
+},
+},
+{
+["rows"] = 6,
+["fadeoutdelay"] = 0,
+["skin"] = {
+["Zoom"] = true,
+},
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -187.025019571558,
+["x"] = -77.24997402438021,
+["point"] = "RIGHT",
+["scale"] = 0.800000011920929,
+},
+["fadeoutalpha"] = 0,
+["visibility"] = {
+["combat"] = false,
+},
+},
+{
+["rows"] = 6,
+["fadeoutdelay"] = 0,
+["skin"] = {
+["Zoom"] = true,
+},
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -187.5176953601495,
+["x"] = -138.0499749303708,
+["point"] = "RIGHT",
+["scale"] = 0.800000011920929,
+},
+["fadeoutalpha"] = 0,
+["visibility"] = {
+["combat"] = false,
+},
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawshaark - Razorgore"] = {
+["actionbars"] = {
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 59.9000091552734,
+["x"] = 392.533416748047,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 59.900016784668,
+["x"] = -2.29998779296875,
+["point"] = "BOTTOM",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 99.9000091552735,
+["x"] = 392.533386230469,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 99.58935546875,
+["x"] = -2.29998779296875,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["NEW_UI"] = {
+["actionbars"] = {
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 40,
+["x"] = 449,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 40,
+["x"] = -5,
+["point"] = "BOTTOM",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 247,
+["x"] = -78,
+["point"] = "RIGHT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 247,
+["x"] = -41,
+["point"] = "RIGHT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 77,
+["x"] = 449,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 77,
+["x"] = -5,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = true,
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 115.0000381469727,
+["x"] = 449.0001220703125,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["enabled"] = true,
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 114,
+["x"] = -5,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawsharkxd - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawshaark - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -204.999969482422,
+["x"] = -231.499816894531,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+nil,
+{
+},
+},
+},
+["Gawh - Thekal"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -227.5,
+["x"] = -231.4998779296875,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawhaarsk - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawshark - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawshaark - Thekal"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -227.5,
+["x"] = -231.4998779296875,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["6bars "] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 60,
+["x"] = 449,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["position"] = {
+["y"] = 59.73151016235352,
+["x"] = -4.722137451171875,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["padding"] = 5,
+["position"] = {
+["y"] = 248.0000610351563,
+["x"] = -86.55322265625,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["padding"] = 5,
+["position"] = {
+["y"] = 248.0000610351563,
+["x"] = -43.4996337890625,
+["point"] = "RIGHT",
+},
+},
+{
+["position"] = {
+["y"] = 98.00001525878906,
+["x"] = 449.0001220703125,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["position"] = {
+["y"] = 98.00001525878906,
+["x"] = -4.722137451171875,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["enabled"] = true,
+["position"] = {
+["y"] = 136.0000305175781,
+["x"] = 449.0000915527344,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["enabled"] = true,
+["position"] = {
+["y"] = 135.3534851074219,
+["x"] = -4.72198486328125,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["HEALING NEW CATA"] = {
+["actionbars"] = {
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 40,
+["x"] = 449,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 40,
+["x"] = -5,
+["point"] = "BOTTOM",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 247,
+["x"] = -78,
+["point"] = "RIGHT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 247,
+["x"] = -41,
+["point"] = "RIGHT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 77,
+["x"] = 449,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 77,
+["x"] = -5,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = true,
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 114,
+["x"] = 449,
+["point"] = "BOTTOMLEFT",
+},
+},
+{
+["enabled"] = true,
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 114,
+["x"] = -5,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawhbank - Razorgore"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -204.9999694824219,
+["x"] = -231.4998168945313,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+nil,
+{
+},
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawharsk - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["WARLOCK"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Default"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 60,
+["x"] = 449,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["position"] = {
+["y"] = 59.73151016235352,
+["x"] = -4.722137451171875,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["padding"] = 5,
+["position"] = {
+["y"] = 247.0000610351563,
+["x"] = -86.046142578125,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+["rows"] = 12,
+["padding"] = 5,
+["position"] = {
+["y"] = 247.0000610351563,
+["x"] = -41.4993896484375,
+["point"] = "RIGHT",
+},
+},
+{
+["position"] = {
+["y"] = 98.00001525878906,
+["x"] = 449.0001220703125,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["position"] = {
+["y"] = 98.00001525878906,
+["x"] = -4.722137451171875,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["enabled"] = true,
+["position"] = {
+["y"] = 136.0000305175781,
+["x"] = 449.0000915527344,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+["enabled"] = true,
+["position"] = {
+["y"] = 135.3534851074219,
+["x"] = -4.72198486328125,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawshaark - Gehennas"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawsharkowo - Garalon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Gawshaark - Golemagg"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -204.9999694824219,
+["x"] = -231.4998168945313,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+},
+},
+["ExtraActionBar"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawsharkowo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Ondogx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["mage ds"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 164.4499658294017,
+["x"] = 447.5728717952225,
+["point"] = "BOTTOM",
+["scale"] = 0.800000011920929,
+},
+},
+["Gawhbank - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["NEW_UI"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 210.2000031322241,
+["x"] = 436.1965044382014,
+["point"] = "BOTTOM",
+["scale"] = 0.800000011920929,
+},
+},
+["Gawshaark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawsharkxd - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawshark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["HEALING NEW CATA"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Default"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["6bars "] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawharsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Yaboipeon - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
+},
+},
+["MicroMenu"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawshaark - Spineshatter"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawheuwef - Razorgore"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["SHAMAN"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Yaboipeon - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Ondogx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 33,
+["point"] = "BOTTOM",
+["y"] = 42,
+},
+},
+["Yaboipeon - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawhbank - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["mage ds"] = {
+["position"] = {
+["y"] = 42.77963256835938,
+["x"] = -300.4996337890625,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+["version"] = 3,
+["padding"] = -2,
+},
+["Gawshaark - Razorgore"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42.0000076293945,
+["x"] = -308.164428710938,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["NEW_UI"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 44.0000114440918,
+["x"] = -393.99951171875,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+},
+["Gawsharkxd - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawshaark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawh - Thekal"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawhaarsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawshark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["padding"] = -3,
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 33,
+["point"] = "BOTTOM",
+["y"] = 42,
+},
+},
+["Gawshaark - Thekal"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["6bars "] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42.00000762939453,
+["x"] = -392.991943359375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+},
+["HEALING NEW CATA"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 40,
+["x"] = -388,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+},
+["Gawhbank - Razorgore"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 33,
+["point"] = "BOTTOM",
+["y"] = 42,
+},
+},
+["Gawharsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 33,
+["point"] = "BOTTOM",
+["y"] = 42,
+},
+},
+["Default"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42.00000762939453,
+["x"] = -392.991943359375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+},
+["Gawshaark - Gehennas"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 33,
+["point"] = "BOTTOM",
+["y"] = 42,
+},
+},
+["Gawsharkowo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawshaark - Golemagg"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+},
+},
+["XPBar"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Spineshatter"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawheuwef - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["SHAMAN"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Ondogx - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbank - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["mage ds"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 119,
+["x"] = -460.8,
+["point"] = "BOTTOM",
+["scale"] = 0.9,
+},
+["version"] = 3,
+},
+["Gawshaark - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 20,
+["x"] = 392.533446022313,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.899999976158142,
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["NEW_UI"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 119,
+["x"] = -460.8,
+["point"] = "BOTTOM",
+["scale"] = 0.9,
+},
+},
+["Gawsharkxd - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawh - Thekal"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshark - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Thekal"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["6bars "] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 19,
+["x"] = -460.8,
+["point"] = "BOTTOM",
+["scale"] = 0.9,
+},
+},
+["HEALING NEW CATA"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 119,
+["x"] = -460.8,
+["point"] = "BOTTOM",
+["scale"] = 0.9,
+},
+},
+["Gawhbank - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawharsk - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["WARLOCK"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Default"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 19,
+["x"] = -460.8,
+["point"] = "BOTTOM",
+["scale"] = 0.9,
+},
+},
+["Gawshaark - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkowo - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Golemagg"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["MultiCast"] = {
+["profiles"] = {
+["mage ds"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 142.1500396728516,
+["x"] = 425.9197998046875,
+["point"] = "BOTTOM",
+},
+},
+["Default"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168.0000457763672,
+["x"] = 449.0001220703125,
+["point"] = "BOTTOMLEFT",
+},
+},
+["6bars "] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168.0000305175781,
+["x"] = 449.0001220703125,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 19.5,
+["x"] = -114.499755859375,
+["point"] = "CENTER",
+},
+},
+["NEW_UI"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 201.4667053222656,
+["x"] = 449.3998107910156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["HEALING NEW CATA"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 115.6523818969727,
+["x"] = 449,
+["point"] = "BOTTOM",
+},
+},
+["Gawh - Thekal"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 19.5,
+["x"] = -114.499755859375,
+["point"] = "CENTER",
+},
+},
+},
+},
+["BlizzardArt"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Spineshatter"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawheuwef - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["SHAMAN"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Ondogx - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbank - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["mage ds"] = {
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+},
+["Gawshaark - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["NEW_UI"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkxd - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawh - Thekal"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawshark - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Thekal"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["6bars "] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["HEALING NEW CATA"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbank - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawharsk - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["WARLOCK"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Default"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkowo - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Golemagg"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["BagBar"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawshaark - Spineshatter"] = {
+["verticalAlignment"] = "CENTER",
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 272,
+["point"] = "BOTTOM",
+},
+},
+["Gawheuwef - Razorgore"] = {
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41,
+["x"] = 296,
+["point"] = "BOTTOM",
+},
+},
+["SHAMAN"] = {
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41,
+["x"] = 296,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["padding"] = 4,
+["keyring"] = false,
+},
+["Ondogx - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Yaboipeon - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawhbank - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["mage ds"] = {
+["onebag"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 42.5000114440918,
+["x"] = -84.4998779296875,
+["point"] = "BOTTOMRIGHT",
+},
+["padding"] = 5,
+},
+["Gawshaark - Razorgore"] = {
+["onebag"] = true,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 53.4000112771992,
+["x"] = -88,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1.20000004768372,
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawsharkuwu - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["NEW_UI"] = {
+["onebag"] = true,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 42.5000114440918,
+["x"] = -61.0303955078125,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Gawsharkxd - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawshaark - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawhaarsk - Gehennas"] = {
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41,
+["x"] = 296,
+["point"] = "BOTTOM",
+},
+},
+["Gawh - Thekal"] = {
+["padding"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 303,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawshark - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawsharkxd - Gehennas"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["padding"] = 4,
+["keyring"] = false,
+},
+["Gawshaark - Thekal"] = {
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41,
+["x"] = 296,
+["point"] = "BOTTOM",
+},
+},
+["6bars "] = {
+["padding"] = 5,
+["onebag"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 42.5000114440918,
+["x"] = -103.4293212890625,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["HEALING NEW CATA"] = {
+["onebag"] = true,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 44,
+["x"] = -78,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Gawhbank - Razorgore"] = {
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41,
+["x"] = 296,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawharsk - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["WARLOCK"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Default"] = {
+["padding"] = 5,
+["onebag"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 44.50000762939453,
+["x"] = -124.0557861328125,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Gawshaark - Gehennas"] = {
+["verticalAlignment"] = "CENTER",
+["padding"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 304,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawsharkowo - Garalon"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["keyring"] = false,
+},
+["Gawshaark - Golemagg"] = {
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41,
+["x"] = 296,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["StanceBar"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawshaark - Spineshatter"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawheuwef - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.9999847412109,
+["x"] = -82.4999542236328,
+["point"] = "CENTER",
+},
+},
+["SHAMAN"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.9999847412109,
+["x"] = -82.4999542236328,
+["point"] = "CENTER",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Ondogx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = -460,
+["point"] = "BOTTOM",
+["y"] = 143,
+},
+},
+["Yaboipeon - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawhbank - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["mage ds"] = {
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+["position"] = {
+["y"] = 185,
+["x"] = 448.1778259277344,
+["point"] = "BOTTOMLEFT",
+["scale"] = 1,
+},
+},
+["Gawshaark - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.9999847412109,
+["x"] = -82.4999542236328,
+["point"] = "CENTER",
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["NEW_UI"] = {
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 185,
+["x"] = 448.1778259277344,
+["point"] = "BOTTOMLEFT",
+["scale"] = 1,
+},
+},
+["Gawsharkxd - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawshaark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.9999847412109,
+["x"] = -82.4999542236328,
+["point"] = "CENTER",
+},
+},
+["Gawh - Thekal"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawshark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawshaark - Thekal"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["6bars "] = {
+["position"] = {
+["y"] = 215.5000305175781,
+["x"] = 449.0671691894531,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+["HEALING NEW CATA"] = {
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 193.5000457763672,
+["x"] = 448.9999694824219,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawhbank - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49995422363281,
+["point"] = "CENTER",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = -460,
+["point"] = "BOTTOM",
+["y"] = 143,
+},
+},
+["Gawharsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Default"] = {
+["position"] = {
+["y"] = 157.5,
+["x"] = 338.4556732177734,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+["skin"] = {
+["Zoom"] = true,
+},
+},
+["Gawshaark - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = -460,
+["point"] = "BOTTOM",
+["y"] = 143,
+},
+},
+["Gawsharkowo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Gawshaark - Golemagg"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49995422363281,
+["point"] = "CENTER",
+},
+},
+},
+},
+["Vehicle"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawshaark - Spineshatter"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawheuwef - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.5000305175781,
+["x"] = 104.5,
+["point"] = "CENTER",
+},
+},
+["SHAMAN"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.5000305175781,
+["x"] = 104.5,
+["point"] = "CENTER",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Ondogx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Yaboipeon - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawhbank - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["mage ds"] = {
+["position"] = {
+["y"] = 193.4666748046875,
+["x"] = -224.0796508789063,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+},
+["Gawshaark - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 157.900024414063,
+["x"] = 395.022247314453,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["NEW_UI"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 193.4666748046875,
+["x"] = -224.0796508789063,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkxd - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawshaark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.5000305175781,
+["x"] = 104.5,
+["point"] = "CENTER",
+},
+},
+["Gawh - Thekal"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawshark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawshaark - Thekal"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["6bars "] = {
+["version"] = 3,
+["position"] = {
+["y"] = 192.0000305175781,
+["x"] = 449.0670776367188,
+["point"] = "BOTTOMLEFT",
+},
+},
+["HEALING NEW CATA"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 169.2351837158203,
+["x"] = -445.0012664794922,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbank - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.5,
+["point"] = "CENTER",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawharsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Default"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 208.4647674560547,
+["x"] = 448.5510559082031,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawshaark - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawsharkowo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
+["Gawshaark - Golemagg"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.5,
+["point"] = "CENTER",
+},
+},
+},
+},
+["PetBar"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Spineshatter"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawheuwef - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["SHAMAN"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Ondogx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbank - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["mage ds"] = {
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = 448.1778259277344,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawshaark - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 133.900009155273,
+["x"] = 392.533325195313,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["NEW_UI"] = {
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = 448.1778259277344,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawsharkxd - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawh - Thekal"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawshark - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Thekal"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["6bars "] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168.0000457763672,
+["x"] = 449.0670776367188,
+["point"] = "BOTTOMLEFT",
+},
+},
+["HEALING NEW CATA"] = {
+["skin"] = {
+["Zoom"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 82.05925750732422,
+["x"] = 451.0001831054688,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbank - Razorgore"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Gawharsk - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["WARLOCK"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Default"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168.0000457763672,
+["x"] = 449.0670776367188,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawshaark - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkowo - Garalon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Golemagg"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["RepBar"] = {
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Spineshatter"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawheuwef - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["SHAMAN"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Ondogx - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Yaboipeon - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawhbank - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["mage ds"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 127,
+["x"] = 449.4224368248397,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.8999999761581421,
+},
+["version"] = 3,
+},
+["Gawshaark - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 9,
+["x"] = 341,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Gawhbanktwo - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkuwu - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["NEW_UI"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 127,
+["x"] = 449.4224368248397,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.8999999761581421,
+},
+},
+["Gawsharkxd - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawh - Thekal"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawhaarsk - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshark - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Thekal"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["6bars "] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 11,
+["x"] = -460.8,
+["point"] = "BOTTOM",
+["scale"] = 0.9,
+},
+},
+["HEALING NEW CATA"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 127,
+["x"] = 449.4224368248397,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.8999999761581421,
+},
+},
+["Gawhbank - Razorgore"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkgodx - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawharsk - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["WARLOCK"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Default"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 10,
+["x"] = 449.4224368248397,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.8999999761581421,
+},
+},
+["Gawshaark - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkosák - Gehennas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawsharkowo - Garalon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Gawshaark - Golemagg"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+},
+["profileKeys"] = {
+["Gawhbanktwo - Gehennas"] = "Default",
+["Gawheuwef - Razorgore"] = "Gawheuwef - Razorgore",
+["Ondogx - Garalon"] = "Ondogx - Garalon",
+["Gawshaark - Razorgore"] = "Gawshaark - Razorgore",
+["Gawhbank - Garalon"] = "Gawhbank - Garalon",
+["Shatterbot - Golemagg"] = "Default",
+["Gawshaark - Garalon"] = "mage ds",
+["Gawsharkxd - Garalon"] = "Gawsharkxd - Garalon",
+["Uwuuwu - Thekal"] = "Default",
+["Gawhaarsk - Razorgore"] = "Default",
+["Gawsharkxd - Gehennas"] = "mage ds",
+["Kekerwar - Golemagg"] = "Default",
+["Gawharsk - Garalon"] = "mage ds",
+["Flowershaark - Golemagg"] = "Default",
+["Zupanek - Golemagg"] = "Default",
+["Gawshaark - Golemagg"] = "Default",
+["Gawsharkgodx - Gehennas"] = "NEW_UI",
+["Gawsharkowo - Garalon"] = "mage ds",
+["Yaboipeon - Gehennas"] = "Yaboipeon - Gehennas",
+["Gawshaark - Spineshatter"] = "mage ds",
+["Gawhbanktwo - Garalon"] = "Gawhbanktwo - Garalon",
+["Yaboipeon - Garalon"] = "Yaboipeon - Garalon",
+["Gawdog - Firemaw"] = "6bars ",
+["Gawsharkuwu - Garalon"] = "Gawsharkuwu - Garalon",
+["Gawsharkosák - Gehennas"] = "mage ds",
+["Gawhbank - Razorgore"] = "Gawshaark - Razorgore",
+["Gawhaarsk - Golemagg"] = "6bars ",
+["Gawshark - Golemagg"] = "Default",
+["Gawsharkowo - Gehennas"] = "mage ds",
+["Gawhaarsk - Gehennas"] = "mage ds",
+["Gawh - Thekal"] = "Default",
+["Gawshark - Gehennas"] = "NEW_UI",
+["Gawharsk - Gehennas"] = "mage ds",
+["Gawsharkuwu - Gehennas"] = "NEW_UI",
+["Gawshaark - Thekal"] = "Default",
+["Gawhbank - Golemagg"] = "Default",
+["Gawhbank - Gehennas"] = "6bars ",
+["Methylbenzen - Golemagg"] = "NEW_UI",
+["Gawsharkgodx - Garalon"] = "Gawsharkgodx - Garalon",
+["Gawshaark - Gehennas"] = "mage ds",
+["Gawshark - Garalon"] = "Gawshark - Garalon",
+["Gawhaarsk - Thekal"] = "Default",
+["Ondogx - Gehennas"] = "NEW_UI",
+["Gawsharkosák - Garalon"] = "mage ds",
+["Gawhaarsk - Garalon"] = "Gawhaarsk - Garalon",
+["Uwuwar - Golemagg"] = "Default",
+},
+["profiles"] = {
+["Gawsharkosák - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawshaark - Spineshatter"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["minimapPos"] = 226.332438529477,
+},
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawheuwef - Razorgore"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["SHAMAN"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Yaboipeon - Gehennas"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Ondogx - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Yaboipeon - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawhbank - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["mage ds"] = {
+["focuscastmodifier"] = false,
+["onkeydown"] = true,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["outofrange"] = "hotkey",
+},
+["Gawshaark - Razorgore"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 208.5971697751163,
+["hide"] = true,
+},
+["outofrange"] = "hotkey",
+},
+["Gawhbanktwo - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawsharkuwu - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["NEW_UI"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["onkeydown"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawsharkxd - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawshaark - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawhaarsk - Gehennas"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 197.334415757056,
+},
+["outofrange"] = "hotkey",
+},
+["Gawh - Thekal"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawhaarsk - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawshark - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawsharkxd - Gehennas"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawshaark - Thekal"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 197.3714096422011,
+},
+["outofrange"] = "hotkey",
+},
+["6bars "] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["onkeydown"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["HEALING NEW CATA"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["onkeydown"] = false,
+["outofrange"] = "hotkey",
+},
+["Gawhbank - Razorgore"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawsharkgodx - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawharsk - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["WARLOCK"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Default"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["onkeydown"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawshaark - Gehennas"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawsharkosák - Gehennas"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawsharkowo - Garalon"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Gawshaark - Golemagg"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+},
+}

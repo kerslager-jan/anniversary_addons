@@ -1,0 +1,93 @@
+
+AngryAssign_Pages = {
+	[722649405] = {
+		["Updated"] = 1674767758,
+		["Name"] = "Kologarn",
+		["Id"] = 722649405,
+		["UpdateId"] = 3134239633,
+		["Contents"] = "_______________________________________________\n                                  {tank}Naiki MT\n                                  {tank}Dejms OT\n\n                                    {Healer}Healers{Healer}\n         1st Shockwave: {paladin}Dejms {Spell 64205} \n         2nd Shockwave: {paladin}Divnitie {Spell 64205} \n         3rd Shockwave:{paladin}Wing {Spell 64205} \n\n                                    {dps}DPS{dps}\n                Focus down his right arm(our left)\n         Get the his left arm(our right) down to 25%\n                     Then switch fully to boss\n\n                          All dps cd's on pull\n           Save {spell 2825}  for second arm spawn\n\n                                  {dps}Ranged{dps}\n                         {Druid}Boomkins focus adds\n\n                   Eye beam - run away from it",
+	},
+	[2946786352] = {
+		["Updated"] = 1674765512,
+		["Name"] = "Razorscale",
+		["Id"] = 2946786352,
+		["UpdateId"] = 3837615440,
+		["Contents"] = "__________________________\n               {tank}Tanks{tank}\n              Dejms MT\n               Naiki OT\n\n             {Healer}Healers{Healer}\n              Heal'n'stuff\n\n     Pop all offensive cd's \n        + Bloodlust when\n         razor hits ground",
+	},
+	[2956995203] = {
+		["Updated"] = 1674762450,
+		["Name"] = "Flame Levi",
+		["Id"] = 2956995203,
+		["UpdateId"] = 718808911,
+		["Contents"] = "_____________________________________________\n                          Flame Leviathan HM\n\n\n                                <Demolisher>\n\nKeep pyrite stacks up\nBe ready to launch passenger\n\n\n\n                                <Siege Engine>\n\nProtect assigned Demo\n-Ram add into fire\n\nSteam Rush if pursued by Levi\n\n\n\n                                    <Chopper>\n\nPick up assigned passenger back to demo after shutdown\nDrop Tar before Freyja add spawns\n\n\nTR - Square  - Cokatrix\nTL - Moon    - Vexius\nLR - Triangle - Feist\nLL - Diamond - Gawshaark\nLM-Nipple      - Volgarona",
+	},
+	[3095104000] = {
+		["Updated"] = 1674766494,
+		["Name"] = "Ignis",
+		["Id"] = 3095104000,
+		["UpdateId"] = 2998900987,
+		["Contents"] = "___________________________________________\n                                 {tank}Tanks{tank}\n                                 Naiki MT\n                                 Dejms OT\n\n                                {Healer}Healers{Healer}\n                             Focus heal on\n                         players in slag pot\n\n                 STOP CAST during flame jets\n\n\n   1st flame jets : {paladin}Dejms {Spell 64205}\n\n   2nd flame jets : {paladin}Divinitie {Spell 64205} + {Spell 31821}\n\n   3rd flame jets : {paladin}Wing {Spell 64205} + {Spell 31821}",
+	},
+	[738575075] = {
+		["Updated"] = 1675018930,
+		["Name"] = "Keepers",
+		["Id"] = 738575075,
+		["UpdateId"] = 2604172729,
+		["Contents"] = "{Triangle}FREYJA\n1st  Tremor -{paladin} Wing {Icon 64205}DSAC + {Icon 31821}CONC\n2nd Tremor -{paladin} Divinitie {Icon 64205}DSAC + {Icon 31821}CONC\n3rd  Tremor - {paladin}Dejms {Icon 64205}DSAC\n\n\n{Circle}MIMIRON\nHeat Wave 2 - {paladin} Wing {Icon 64205}DSAC + {Icon 31821}FIRE\nHeat Wave 3 - {paladin} Divinitie {Icon 64205}DSAC + {Icon 31821}FIRE\nHeat Wave 4 - {paladin}Dejms {Icon 64205}DSAC\nHeat Wave 5 - Personals\n\n{Square}HODIR\nFrozen blows 1: {paladin} Divinitie {Icon 64205}DSAC + 1st{Icon 31821}ICE\nFrozen blows 1: {paladin} Wing {Icon 64205}DSAC + 2st{Icon 31821}ICE\nFrozen blows 1:{priest}Powicher  {spell 33206} on MT",
+	},
+	[2041522735] = {
+		["Updated"] = 1674767977,
+		["Name"] = "Auriaya",
+		["Id"] = 2041522735,
+		["UpdateId"] = 3521024050,
+		["Contents"] = "_____________________________________________\n               {tank}Dejms MT -  {tank}Naiki OT\n\nStack with the raid behind a pillar to LoS while \nNaiki uses d&d to pull.\n\n{spell 47788} and {spell 33206} on Naiki\nJust before mobs reach OT. Dejms picks up boss\n\n{paladin}Dejms {Spell 64205} on pull\n\n {Spell 6346} on disc priest, {Spell 32592} when\n       players are feared to clear them asap\n\n                                {dps}DPS{dps}\n               PRIO sentries and guardians\n\n\n                           --EVERYONE--\n       Raid remains stacked in front of the\n                   boss for sonic screech\n\n               Interrupt boss at all times",
+	},
+	[756714926] = {
+		["Updated"] = 1674767060,
+		["Name"] = "XT",
+		["Id"] = 756714926,
+		["UpdateId"] = 1943581245,
+		["Contents"] = "_____________________________\n          {tank}MT - Dejms\n\n        {spell 2825} on pull\n        All ranged on bots\n\n       {skull}Boombots prio kill\n\nGravity bombs to the left <-\nLight bombs to the right  ->\n\n                  {Healer}Healers{Healer}\n1st tantrum :  {paladin}Dejms {Spell 64205}\n\n2nd tantrum :  {paladin}Divinitie {Spell 64205}\n+ Powi {Spell 64843}\n\n3rd tantrum :  {paladin}Wing {Spell 64205}\n\n                    {dps}DPS{dps}\nDPS use personal defensive cd's\non first tantrum",
+	},
+	[54727729] = {
+		["Updated"] = 1675029652,
+		["Name"] = "Yogg",
+		["Id"] = 54727729,
+		["UpdateId"] = 2388181694,
+		["Contents"] = "{Diamond}VEZAX\n{spell 1038} on {warlock}Nizulath - {warlock}Feist - {mage}Vexius\n\n{Square}YOGG\n1st   Roar:   {paladin}Dejms   {Icon 64205}DSAC \n2nd Roar:  {paladin}Divnitie {Icon 64205}DSAC + {Icon 31821}SR\n3rd  Roar:  {paladin}Wing     {Icon 64205}DSAC + {Icon 31821}SR\n\nSouth : Gígelz+Shabab+Peeday\nNorth : Boris + Cartier + Naiki\nWest  : Logout + Epicxd\nEast    : Whitemvgic + Horsti",
+	},
+	[42214329] = {
+		["Updated"] = 1674769089,
+		["Name"] = "Thorim",
+		["Id"] = 42214329,
+		["UpdateId"] = 3033058701,
+		["Contents"] = "____________________________________\n             {tank} Dejms and Naiki tanks{tank}\n\n----------------Main Fight-------------------\n{tank}Naiki starts tanking\n\n{shaman}Shamans use NR totems\n\n                      --EVERYONE--\n\n{skull}> - Move away from\nlightning charge zones - one shot potential\n\nDon't stand in blizzard\n\n\n                       {Healer} --Healers--{Healer}\n    Chain defensives when boss gets <50%\n\n{spell 33206} and {spell 47788} will be called out for\n\n           {paladin}Dejms first {spell 64205}\n         {paladin}Divinitie second {spell 64205}\n            {paladin} Wing third {spell 64205}",
+	},
+}
+AngryAssign_Categories = {
+}
+AngryAssign_State = {
+	["tree"] = {
+		["groups"] = {
+		},
+		["scrollvalue"] = 0,
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["fullwidth"] = 666.0000610351562,
+	},
+	["display"] = {
+		["y"] = 79.14197540283203,
+		["x"] = -70.494873046875,
+		["point"] = "BOTTOMRIGHT",
+		["scale"] = 1,
+		["hidden"] = false,
+		["width"] = 312.7406311035156,
+	},
+	["directionUp"] = false,
+	["locked"] = false,
+	["window"] = {
+	},
+}
+AngryAssign_Config = {
+	["allowall"] = true,
+}

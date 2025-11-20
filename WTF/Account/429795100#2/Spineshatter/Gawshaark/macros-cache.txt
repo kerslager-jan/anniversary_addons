@@ -1,0 +1,137 @@
+VER 3 0100000001000038 "alter" "134400"
+#showtooltip Alter Time
+/use [known:12042] Mana Gem
+/cast [known:12043] Presence of Mind
+/cast Alter Time
+END
+VER 3 010000000100001E "arcane" "134400"
+#showtooltip Arcane Power
+/use 13
+/use 10
+/cast Arcane Power
+/cast Berserking
+/cast Arcane Blast
+/cqs
+END
+VER 3 0100000001000029 "arcane" "INV_Misc_QuestionMark"
+#showtooltip Arcane Power
+/use 10
+/cast Arcane Power
+/cast Berserking
+/cast Arcane Blast
+END
+VER 3 010000000100002A "asdasdsqa" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Blood Fury
+/use Ruthless Gladiator's Badge of Conquest
+/use 10
+/cast Rapid Fire
+/cast Call of the Wild
+END
+VER 3 010000000100003D "cance" "134400"
+/cancelaura Ice Block
+/use Healing Potion
+END
+VER 3 010000000100003B "cscscs" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Cold Snap
+END
+VER 3 0100000001000003 "dec" "134400"
+/cast [@mouseover, help, nodead][@player]Remove Curse
+END
+VER 3 0100000001000022 "evok" "134400"
+#showtooltip
+/cast [talent:6/1, nochanneling] Evocation;
+/cast [talent:6/2, @cursor] Rune of Power;
+/cast [talent:6/3] Incanter's Ward
+END
+VER 3 010000000100002E "fff" "INV_Misc_QuestionMark"
+#showtooltip
+/use 8
+END
+VER 3 010000000100002F "fir" "135812"
+/cancelaura Ice Block
+/cast Fireball
+END
+VER 3 0100000001000030 "Fnedi" "135939"
+/w Fnedi PI plx :*
+END
+VER 3 0100000001000039 "fsfs" "134400"
+#showtooltip
+/cast [@cursor] Flamestrike
+END
+VER 3 010000000100003C "HAGA" "413579"
+/use 10
+/cast Mirror Image
+/equipset pve
+END
+VER 3 0100000001000028 "handsdsds" "134400"
+#showtooltip
+/use 10
+END
+VER 3 0100000001000002 "icela" "134400"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target] Ice Lance
+END
+VER 3 0100000001000020 "IcyVeinsMoP" "134400"
+/cast Icy Veins
+/cast Berserking
+/use 13
+/use 10
+END
+VER 3 0100000001000031 "IcyVeinsMoP" "135838"
+/cast Icy Veins
+/cast Berserking
+/use 10
+END
+VER 3 0100000001000032 "kekek" "134177"
+/4 LF DS10 7-8hc 19:00ST today need 1DPS loot MS>OS pref Hunter /w me
+END
+VER 3 0100000001000024 "magefood" "135769"
+/use Conjured Mana Pudding
+/use Conjured Mana Buns
+END
+VER 3 0100000001000034 "MIR" "135994"
+/cast Mirror Image
+/equipset pve
+END
+VER 3 0100000001000025 "negr" "134400"
+#showtooltip
+/cast [talent:2/1] Temporal Shield;
+/cast [talent:2/3] Ice Barrier
+END
+VER 3 0100000001000035 "PoMPyro" "INV_Misc_QuestionMark"
+#showtooltip Presence of Mind
+/cast Presence of Mind
+/cast Pyroblast
+/cqs
+END
+VER 3 0100000001000026 "row1" "134400"
+#showtooltip
+/cast [talent:1/1] Presence of Mind;
+/cast [talent:1/2] Blazing Speed;
+/cast [talent:1/3] Ice Floes
+END
+VER 3 0100000001000021 "setfocus" "254884"
+/focus [@mouseover, nodead][]
+END
+VER 3 0100000001000037 "sha" "134400"
+/stopcasting
+/tar mouseover
+/click ExtraActionButton1
+/run if UnitExists"target"then SendChatMessage("{star}Light on %t!{star}","RAID",nil,UnitName"target")end
+/targetlasttarget
+END
+VER 3 010000000100001F "TBCboots" "134400"
+#showtooltip Rocket Boots Xtreme Lite
+/use Rocket Boots Xtreme Lite
+/equipset pve
+END
+VER 3 0100000001000005 "wadadsa" "134400"
+#showtooltip Mage Armor
+/cast Mage Armor
+/cast Invisibility
+END
+VER 3 010000000100003A "zzz" "134400"
+/cast [@mouseover, exist, harm, nodead] Chain Lightning ; Chain Lightning
+END

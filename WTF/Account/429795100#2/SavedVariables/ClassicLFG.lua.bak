@@ -1,0 +1,77 @@
+
+ClassicLFG_DB = {
+	["profileKeys"] = {
+		["Uwuowo - Jin'do"] = "Uwuowo - Jin'do",
+		["Uwuuwu - Thekal"] = "Uwuuwu - Thekal",
+		["Gawheuwef - Razorgore"] = "Gawheuwef - Razorgore",
+		["Gawshaark - Golemagg"] = "Gawshaark - Golemagg",
+		["Gawhaarsk - Razorgore"] = "Gawhaarsk - Razorgore",
+		["Yaboipeon - Thekal"] = "Yaboipeon - Thekal",
+		["Gawhbank - Razorgore"] = "Gawhbank - Razorgore",
+		["Kekerwar - Golemagg"] = "Kekerwar - Golemagg",
+		["Gawshaark - Thekal"] = "Gawshaark - Thekal",
+		["Gawshaark - Razorgore"] = "Gawshaark - Razorgore",
+		["Gawhaarsk - Golemagg"] = "Gawhaarsk - Golemagg",
+		["Shatterbot - Golemagg"] = "Shatterbot - Golemagg",
+		["Gawhbank - Golemagg"] = "Gawhbank - Golemagg",
+		["Flowershaark - Golemagg"] = "Flowershaark - Golemagg",
+		["Zupanek - Golemagg"] = "Zupanek - Golemagg",
+		["Uwuwar - Golemagg"] = "Uwuwar - Golemagg",
+	},
+	["profiles"] = {
+		["Uwuowo - Jin'do"] = {
+		},
+		["Uwuuwu - Thekal"] = {
+		},
+		["Gawheuwef - Razorgore"] = {
+		},
+		["Gawshaark - Golemagg"] = {
+			["minimap"] = {
+				["minimapPos"] = 205.2099030137729,
+			},
+		},
+		["Gawhaarsk - Razorgore"] = {
+			["BroadcastDungeonGroupChannel"] = 1,
+			["minimap"] = {
+				["minimapPos"] = 214.6461962179305,
+			},
+		},
+		["Yaboipeon - Thekal"] = {
+		},
+		["Gawhbank - Razorgore"] = {
+			["minimap"] = {
+				["minimapPos"] = 240.2644363731473,
+			},
+			["BroadcastDungeonGroupChannel"] = 1,
+		},
+		["Kekerwar - Golemagg"] = {
+		},
+		["Gawshaark - Thekal"] = {
+			["minimap"] = {
+				["minimapPos"] = 193.2614357367847,
+			},
+		},
+		["Gawshaark - Razorgore"] = {
+			["BroadcastDungeonGroupChannel"] = 1,
+			["minimap"] = {
+				["minimapPos"] = 158.314184809461,
+			},
+		},
+		["Gawhaarsk - Golemagg"] = {
+		},
+		["Shatterbot - Golemagg"] = {
+			["BroadcastDungeonGroupChannel"] = 1,
+		},
+		["Gawhbank - Golemagg"] = {
+			["minimap"] = {
+				["minimapPos"] = 210.784088653487,
+			},
+		},
+		["Flowershaark - Golemagg"] = {
+		},
+		["Zupanek - Golemagg"] = {
+		},
+		["Uwuwar - Golemagg"] = {
+		},
+	},
+}

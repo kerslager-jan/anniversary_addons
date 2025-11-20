@@ -1,0 +1,60 @@
+VER 3 000000000000000D "a" "132089"
+/target Gan
+END
+VER 3 0000000000000006 "a" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Serpent Sting(Rank 3)
+/petattack
+END
+VER 3 0000000000000007 "aaa" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Feed Pet
+/use Haunch of Meat
+END
+VER 3 0000000000000003 "arcane" "INV_MISC_QUESTIONMARK"
+#showtooltip Arcane Shot
+/cast Arcane Shot(Rank 1)
+/autoattack
+/petattack
+END
+VER 3 0000000000000004 "auto" "INV_MISC_QUESTIONMARK"
+#showtooltip Auto Shot
+/cast !Auto Shot
+/petattack
+END
+VER 3 000000000000000C "d" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Disenchant
+/use Brown Linen Robe
+END
+VER 3 0000000000000008 "dung" "132333"
+/5 {Star}LFM RFC need Tank LAST SPOT /w me {Star}
+/4 {Star}LFM RFC need Tank LAST SPOT /w me {Star}
+/6 {Star}LFM RFC need Tank LAST SPOT /w me {Star}
+/1 {Star}LFM RFC need Tank LAST SPOT /w me {Star}
+END
+VER 3 000000000000000A "kek" "132189"
+/5 {star}LFM RFD DPS LAST SPOT /w me{star}
+/4 {star}LFM RFD DPS LAST SPOT /w me{star}
+/6 {star}LFM RFD DPS LAST SPOT /w me{star}
+END
+VER 3 0000000000000009 "RFK" "132107"
+/5 {Star} LFM RFK need HEAL LAST SPOT /w me {Star}
+/4 {Star} LFM RFK need HEAL LAST SPOT /w me {Star}
+/1 {Star} LFM RFK need HEAL LAST SPOT /w me {Star}
+/6 {Star} LFM RFK need HEAL LAST SPOT /w me {Star}
+END
+VER 3 0000000000000010 "RXPTargeting" "Ability_eyeoftheowl"
+//RestedXP Guides - current step has no configured targets
+END
+VER 3 000000000000000E "tr1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 000000000000000F "tr2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 000000000000000B "TSMMacro" "INV_Misc_Flower_01"
+/click TSMAuctioningBtn
+END

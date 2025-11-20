@@ -1,0 +1,71 @@
+
+sArena_MoPDB = {
+["profileKeys"] = {
+["Gawsharkosák - Garalon"] = "Default",
+["Gawsharkgodx - Gehennas"] = "Default",
+["Gawsharkowo - Garalon"] = "Default",
+["Yaboipeon - Gehennas"] = "Default",
+["Ondogx - Garalon"] = "Default",
+["Gawshark - Golemagg"] = "Default",
+["Gawsharkosák - Gehennas"] = "Default",
+["Gawsharkuwu - Garalon"] = "Default",
+["Gawhbank - Golemagg"] = "Default",
+["Gawsharkuwu - Gehennas"] = "Default",
+["Gawshaark - Garalon"] = "Default",
+["Gawhaarsk - Gehennas"] = "Default",
+["Gawshaark - Gehennas"] = "Default",
+["Gawsharkxd - Garalon"] = "Default",
+["Gawhbanktwo - Garalon"] = "Default",
+["Yaboipeon - Garalon"] = "Default",
+["Gawshark - Garalon"] = "Default",
+["Gawhbank - Garalon"] = "Default",
+["Gawsharkxd - Gehennas"] = "Default",
+["Gawsharkgodx - Garalon"] = "Default",
+["Gawshark - Gehennas"] = "Default",
+["Gawharsk - Garalon"] = "Default",
+["Gawhbank - Gehennas"] = "Default",
+["Flowershaark - Golemagg"] = "Default",
+["Ondogx - Gehennas"] = "Default",
+["Gawhaarsk - Garalon"] = "Default",
+["Gawsharkowo - Gehennas"] = "Default",
+["Gawhbanktwo - Gehennas"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["layoutSettings"] = {
+["Gladiuish"] = {
+["dr"] = {
+["borderSize"] = 1,
+["spacing"] = 2,
+["posX"] = -102,
+["drCategorySizeOffsets"] = {
+},
+},
+["racial"] = {
+["scale"] = 1,
+["posX"] = 145,
+},
+["castBar"] = {
+["posY"] = -21,
+["posX"] = 0,
+},
+["posX"] = 474,
+["cropIcons"] = true,
+["powerBarHeight"] = 8,
+["spacing"] = 24,
+["width"] = 167,
+["classIconFontSize"] = 12,
+["height"] = 46,
+["posY"] = 125,
+},
+},
+["swapHumanTrinket"] = false,
+["colorTrinket"] = false,
+["statusText"] = {
+["usePercentage"] = true,
+},
+["drSwipeOff"] = false,
+["disableDRBorder"] = false,
+},
+},
+}

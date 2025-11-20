@@ -1,0 +1,19 @@
+
+RaidFrameSettingsDB = {
+	["profileKeys"] = {
+		["Gawshaark - Gehennas"] = "Default",
+		["Ondogx - Gehennas"] = "Default",
+	},
+	["global"] = {
+		["MinimapButton"] = {
+			["enabled"] = false,
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["oldBlacklistsImported"] = true,
+		},
+	},
+}
+RaidFrameSettingsDBPP = nil
+RaidFrameSettingsDBRP = nil

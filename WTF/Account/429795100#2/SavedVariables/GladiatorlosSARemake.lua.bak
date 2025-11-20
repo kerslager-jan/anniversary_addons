@@ -1,0 +1,34 @@
+
+GladiatorlosSADB = {
+["profileKeys"] = {
+["Gawsharkosák - Garalon"] = "Default",
+["Gawsharkowo - Garalon"] = "Default",
+["Gawshaark - Gehennas"] = "Default",
+["Gawsharkosák - Gehennas"] = "Default",
+["Flowershaark - Golemagg"] = "Default",
+["Gawsharkowo - Gehennas"] = "Default",
+["Gawsharkuwu - Gehennas"] = "Default",
+["Gawshaark - Garalon"] = "Default",
+["Gawshark - Golemagg"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["offsetBetweenIconsAuraBar"] = 5,
+["sizeIconAuraBar"] = 45,
+["offsetAuraBar_Y"] = -25,
+["buffsBarSettings"] = {
+["offsetX"] = 0,
+["offsetY"] = 0,
+["point"] = "CENTER",
+["relativePoint"] = "TOP",
+},
+["debuffsBarSettings"] = {
+["offsetX"] = 0,
+["offsetY"] = -97.5,
+["point"] = "CENTER",
+["relativePoint"] = "TOP",
+},
+["defaultOffsetDebuffFrames_Y"] = -97.5,
+},
+},
+}

@@ -1,0 +1,23 @@
+
+EnhancedRaidFramesDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Ondogx - Gehennas"] = "Ondogx - Gehennas",
+		["Gawhbank - Golemagg"] = "Gawhbank - Golemagg",
+		["Gawhaarsk - Gehennas"] = "Gawhaarsk - Gehennas",
+	},
+	["profiles"] = {
+		["Ondogx - Gehennas"] = {
+			["DB_VERSION"] = 2.2,
+		},
+		["Gawhbank - Golemagg"] = {
+			["DB_VERSION"] = 2.2,
+		},
+		["Gawhaarsk - Gehennas"] = {
+			["DB_VERSION"] = 2.2,
+		},
+	},
+}

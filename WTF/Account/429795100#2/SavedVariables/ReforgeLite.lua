@@ -1,0 +1,2217 @@
+
+ReforgeLiteDB = {
+["char"] = {
+["Gawhbanktwo - Gehennas"] = {
+["categoryStates"] = {
+["Settings"] = true,
+},
+["buffs"] = {
+},
+},
+["Gawsharkgodx - Gehennas"] = {
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawsharkowo - Garalon"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 5100,
+["preset"] = 3,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+83,
+59,
+57,
+nil,
+61,
+},
+["method"] = {
+["items"] = {
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 309,
+["reforge"] = 32,
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["amount"] = 216,
+["reforge"] = 28,
+},
+{
+["dst"] = 5,
+["src"] = 4,
+["amount"] = 287,
+["reforge"] = 25,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["amount"] = 240,
+["reforge"] = 35,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["amount"] = 325,
+["reforge"] = 42,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 176,
+["reforge"] = 39,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["amount"] = 316,
+["reforge"] = 42,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["amount"] = 275,
+["reforge"] = 42,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["amount"] = 382,
+["reforge"] = 42,
+},
+{
+["dst"] = 5,
+["src"] = 1,
+["amount"] = 292,
+["reforge"] = 4,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["amount"] = 237,
+["reforge"] = 35,
+},
+{
+["dst"] = 4,
+["src"] = 1,
+["amount"] = 181,
+["reforge"] = 3,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["amount"] = 525,
+["reforge"] = 42,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["amount"] = 414,
+["reforge"] = 42,
+},
+{
+},
+},
+["stats"] = {
+1052,
+0,
+0,
+5104,
+5390,
+3926,
+0,
+6185,
+},
+},
+},
+["Gawharsk - Gehennas"] = {
+["darkIntent"] = false,
+["storedMethod"] = {
+["items"] = {
+{
+["dst"] = 5,
+["src"] = 8,
+["reforge"] = 54,
+["amount"] = 113,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["reforge"] = 54,
+["amount"] = 67,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["reforge"] = 40,
+["amount"] = 94,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["reforge"] = 54,
+["amount"] = 45,
+},
+{
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["reforge"] = 40,
+["amount"] = 76,
+},
+{
+["dst"] = 5,
+["src"] = 4,
+["reforge"] = 25,
+["amount"] = 94,
+},
+{
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["reforge"] = 40,
+["amount"] = 121,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["reforge"] = 53,
+["amount"] = 119,
+},
+{
+},
+{
+},
+},
+["stats"] = {
+122,
+0,
+0,
+609,
+2113,
+565,
+0,
+545,
+},
+},
+["method"] = {
+["items"] = {
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 113,
+["reforge"] = 54,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 67,
+["reforge"] = 54,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["amount"] = 94,
+["reforge"] = 40,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 45,
+["reforge"] = 54,
+},
+{
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["amount"] = 76,
+["reforge"] = 40,
+},
+{
+["dst"] = 5,
+["src"] = 4,
+["amount"] = 94,
+["reforge"] = 25,
+},
+{
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["amount"] = 121,
+["reforge"] = 40,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["amount"] = 119,
+["reforge"] = 53,
+},
+{
+},
+{
+},
+},
+["stats"] = {
+122,
+0,
+0,
+609,
+2113,
+565,
+0,
+545,
+},
+},
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 601,
+["preset"] = 2,
+},
+},
+},
+},
+["targetLevel"] = 0,
+["weights"] = {
+nil,
+nil,
+nil,
+200,
+150,
+110,
+nil,
+100,
+},
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawdog - Firemaw"] = {
+["caps"] = {
+{
+["stat"] = 0,
+["points"] = {
+},
+},
+{
+["stat"] = 0,
+["points"] = {
+},
+},
+},
+["targetLevel"] = 3,
+["weights"] = {
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+},
+["buffs"] = {
+},
+["itemsLocked"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawsharkuwu - Gehennas"] = {
+["darkIntent"] = false,
+["storedMethod"] = {
+["items"] = {
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 112,
+["reforge"] = 32,
+},
+{
+},
+{
+["dst"] = 6,
+["src"] = 5,
+["amount"] = 84,
+["reforge"] = 33,
+},
+{
+["dst"] = 6,
+["src"] = 8,
+["amount"] = 69,
+["reforge"] = 55,
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["amount"] = 57,
+["reforge"] = 53,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 95,
+["reforge"] = 32,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 98,
+["reforge"] = 32,
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["amount"] = 132,
+["reforge"] = 53,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 99,
+["reforge"] = 32,
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["amount"] = 75,
+["reforge"] = 53,
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["amount"] = 64,
+["reforge"] = 28,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["amount"] = 48,
+["reforge"] = 53,
+},
+},
+["stats"] = {
+203,
+0,
+0,
+1742,
+771,
+3253,
+0,
+1007,
+},
+},
+["method"] = {
+["items"] = {
+{
+},
+{
+["dst"] = 7,
+["src"] = 8,
+["reforge"] = 56,
+["amount"] = 145,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 214,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 187,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 328,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 141,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 244,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 177,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 225,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 198,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 172,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 166,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 382,
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 124,
+},
+{
+},
+},
+["stats"] = {
+284,
+0,
+0,
+5103,
+3744,
+1910,
+145,
+5597,
+},
+},
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 5100,
+["preset"] = 3,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+83,
+59,
+52,
+nil,
+61,
+},
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawshaark - Garalon"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 5100,
+["preset"] = 3,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+121,
+140,
+74,
+nil,
+73,
+},
+["method"] = {
+["items"] = {
+{
+["dst"] = 4,
+["src"] = 8,
+["reforge"] = 53,
+["amount"] = 372,
+},
+{
+["dst"] = 6,
+["src"] = 4,
+["reforge"] = 26,
+["amount"] = 216,
+},
+{
+["dst"] = 5,
+["src"] = 4,
+["reforge"] = 25,
+["amount"] = 287,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["reforge"] = 54,
+["amount"] = 242,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 325,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["reforge"] = 40,
+["amount"] = 224,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["reforge"] = 40,
+["amount"] = 316,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["reforge"] = 54,
+["amount"] = 300,
+},
+{
+["dst"] = 6,
+["src"] = 8,
+["reforge"] = 55,
+["amount"] = 269,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["reforge"] = 54,
+["amount"] = 319,
+},
+{
+["dst"] = 6,
+["src"] = 4,
+["reforge"] = 26,
+["amount"] = 194,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["reforge"] = 40,
+["amount"] = 178,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["reforge"] = 40,
+["amount"] = 525,
+},
+{
+},
+{
+},
+{
+["dst"] = 6,
+["src"] = 4,
+["reforge"] = 26,
+["amount"] = 168,
+},
+},
+["stats"] = {
+288,
+0,
+0,
+5102,
+9984,
+4528,
+160,
+3524,
+},
+},
+},
+["Gawhbank - Golemagg"] = {
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawshaark - Gehennas"] = {
+["darkIntent"] = false,
+["storedMethod"] = {
+["items"] = {
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 148,
+["reforge"] = 39,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 65,
+["reforge"] = 39,
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["amount"] = 107,
+["reforge"] = 53,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 69,
+["reforge"] = 54,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["amount"] = 144,
+["reforge"] = 40,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 73,
+["reforge"] = 54,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 116,
+["reforge"] = 39,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 102,
+["reforge"] = 39,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 132,
+["reforge"] = 54,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["amount"] = 90,
+["reforge"] = 40,
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["amount"] = 70,
+["reforge"] = 40,
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 75,
+["reforge"] = 54,
+},
+{
+},
+{
+},
+{
+["dst"] = 5,
+["src"] = 6,
+["amount"] = 108,
+["reforge"] = 40,
+},
+{
+},
+{
+["dst"] = 5,
+["src"] = 8,
+["amount"] = 48,
+["reforge"] = 54,
+},
+},
+["stats"] = {
+211,
+0,
+0,
+1753,
+1920,
+2191,
+0,
+894,
+},
+},
+["method"] = {
+["items"] = {
+{
+["dst"] = 4,
+["src"] = 8,
+["reforge"] = 53,
+["amount"] = 356,
+},
+{
+["dst"] = 6,
+["src"] = 5,
+["reforge"] = 33,
+["amount"] = 191,
+},
+{
+["dst"] = 6,
+["src"] = 4,
+["reforge"] = 26,
+["amount"] = 225,
+},
+{
+["dst"] = 6,
+["src"] = 5,
+["reforge"] = 33,
+["amount"] = 212,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 297,
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["reforge"] = 53,
+["amount"] = 215,
+},
+{
+},
+{
+["dst"] = 6,
+["src"] = 8,
+["reforge"] = 55,
+["amount"] = 298,
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["reforge"] = 53,
+["amount"] = 295,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 188,
+},
+{
+},
+{
+["dst"] = 6,
+["src"] = 4,
+["reforge"] = 26,
+["amount"] = 209,
+},
+{
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 181,
+},
+{
+["dst"] = 6,
+["src"] = 5,
+["reforge"] = 33,
+["amount"] = 197,
+},
+},
+["stats"] = {
+288,
+0,
+0,
+5102,
+2073,
+7927,
+0,
+3275,
+},
+},
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 5100,
+["preset"] = 3,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+100,
+52,
+62,
+nil,
+59,
+},
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawsharkxd - Gehennas"] = {
+["categoryStates"] = {
+["Settings"] = true,
+},
+["buffs"] = {
+},
+},
+["Gawhaarsk - Gehennas"] = {
+["darkIntent"] = false,
+["storedMethod"] = {
+["items"] = {
+{
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 94,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 76,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 121,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 76,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 94,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 94,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 94,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 76,
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["reforge"] = 28,
+["amount"] = 76,
+},
+{
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 56,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 68,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 43,
+},
+},
+["stats"] = {
+1280,
+0,
+0,
+115,
+120,
+510,
+0,
+1629,
+},
+},
+["method"] = {
+["items"] = {
+{
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 81,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 98,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 73,
+},
+{
+["dst"] = 8,
+["src"] = 1,
+["reforge"] = 7,
+["amount"] = 116,
+},
+{
+["dst"] = 6,
+["src"] = 1,
+["reforge"] = 5,
+["amount"] = 70,
+},
+{
+["dst"] = 1,
+["src"] = 6,
+["reforge"] = 36,
+["amount"] = 95,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 100,
+},
+{
+["dst"] = 6,
+["src"] = 1,
+["reforge"] = 5,
+["amount"] = 121,
+},
+{
+["dst"] = 6,
+["src"] = 1,
+["reforge"] = 5,
+["amount"] = 82,
+},
+{
+["dst"] = 6,
+["src"] = 1,
+["reforge"] = 5,
+["amount"] = 68,
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["reforge"] = 28,
+["amount"] = 64,
+},
+{
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["reforge"] = 28,
+["amount"] = 125,
+},
+{
+},
+},
+["stats"] = {
+1271,
+0,
+0,
+1541,
+185,
+2433,
+0,
+3182,
+},
+},
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 1536,
+["preset"] = 3,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+60,
+20,
+40,
+nil,
+50,
+},
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawshark - Gehennas"] = {
+["darkIntent"] = false,
+["storedMethod"] = {
+["items"] = {
+{
+["dst"] = 8,
+["src"] = 2,
+["amount"] = 130,
+["reforge"] = 14,
+},
+{
+["dst"] = 6,
+["src"] = 2,
+["amount"] = 55,
+["reforge"] = 12,
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 57,
+["reforge"] = 39,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 107,
+["reforge"] = 32,
+},
+{
+["dst"] = 6,
+["src"] = 4,
+["amount"] = 46,
+["reforge"] = 26,
+},
+{
+["dst"] = 4,
+["src"] = 2,
+["amount"] = 70,
+["reforge"] = 10,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 72,
+["reforge"] = 39,
+},
+{
+["dst"] = 6,
+["src"] = 3,
+["amount"] = 112,
+["reforge"] = 19,
+},
+{
+["dst"] = 4,
+["src"] = 3,
+["amount"] = 55,
+["reforge"] = 17,
+},
+{
+["dst"] = 8,
+["src"] = 7,
+["amount"] = 57,
+["reforge"] = 49,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 45,
+["reforge"] = 32,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 7,
+["amount"] = 145,
+["reforge"] = 49,
+},
+{
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["amount"] = 33,
+["reforge"] = 35,
+},
+},
+["stats"] = {
+80,
+385,
+1800,
+820,
+410,
+874,
+304,
+2594,
+},
+},
+["method"] = {
+["items"] = {
+{
+["dst"] = 8,
+["src"] = 2,
+["reforge"] = 14,
+["amount"] = 130,
+},
+{
+["dst"] = 6,
+["src"] = 2,
+["reforge"] = 12,
+["amount"] = 55,
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 57,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 107,
+},
+{
+["dst"] = 6,
+["src"] = 4,
+["reforge"] = 26,
+["amount"] = 46,
+},
+{
+["dst"] = 4,
+["src"] = 2,
+["reforge"] = 10,
+["amount"] = 70,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 72,
+},
+{
+["dst"] = 6,
+["src"] = 3,
+["reforge"] = 19,
+["amount"] = 112,
+},
+{
+["dst"] = 4,
+["src"] = 3,
+["reforge"] = 17,
+["amount"] = 55,
+},
+{
+["dst"] = 8,
+["src"] = 7,
+["reforge"] = 49,
+["amount"] = 57,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 45,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 7,
+["reforge"] = 49,
+["amount"] = 145,
+},
+{
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 33,
+},
+},
+["stats"] = {
+80,
+385,
+1800,
+820,
+410,
+874,
+304,
+2594,
+},
+},
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 820,
+["preset"] = 3,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+200,
+120,
+150,
+100,
+180,
+},
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawharsk - Garalon"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 1020,
+["preset"] = 2,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+59,
+50,
+20,
+nil,
+30,
+},
+["method"] = {
+["items"] = {
+{
+["dst"] = 5,
+["src"] = 7,
+["amount"] = 289,
+["reforge"] = 47,
+},
+{
+["dst"] = 8,
+["src"] = 7,
+["amount"] = 172,
+["reforge"] = 49,
+},
+{
+["dst"] = 5,
+["src"] = 7,
+["amount"] = 182,
+["reforge"] = 47,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 141,
+["reforge"] = 39,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["amount"] = 172,
+["reforge"] = 28,
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["amount"] = 182,
+["reforge"] = 28,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["amount"] = 225,
+["reforge"] = 42,
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 141,
+["reforge"] = 39,
+},
+{
+["dst"] = 5,
+["src"] = 4,
+["amount"] = 136,
+["reforge"] = 25,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["stats"] = {
+195,
+0,
+0,
+1023,
+7501,
+1299,
+969,
+4072,
+},
+},
+["targetLevel"] = 0,
+},
+["Gawhbank - Gehennas"] = {
+["darkIntent"] = false,
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Flowershaark - Golemagg"] = {
+["categoryStates"] = {
+["Settings"] = true,
+},
+["buffs"] = {
+},
+},
+["Ondogx - Gehennas"] = {
+["darkIntent"] = false,
+["storedMethod"] = {
+["items"] = {
+{
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["amount"] = 62,
+["reforge"] = 39,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["amount"] = 121,
+["reforge"] = 35,
+},
+{
+["dst"] = 8,
+["src"] = 7,
+["amount"] = 76,
+["reforge"] = 49,
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["amount"] = 94,
+["reforge"] = 28,
+},
+{
+["dst"] = 7,
+["src"] = 8,
+["amount"] = 94,
+["reforge"] = 56,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["amount"] = 96,
+["reforge"] = 32,
+},
+{
+["dst"] = 7,
+["src"] = 5,
+["amount"] = 94,
+["reforge"] = 34,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["amount"] = 76,
+["reforge"] = 35,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["amount"] = 43,
+["reforge"] = 35,
+},
+},
+["stats"] = {
+127,
+0,
+1585,
+602,
+794,
+95,
+303,
+1794,
+},
+},
+["method"] = {
+["items"] = {
+{
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 62,
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 121,
+},
+{
+["dst"] = 8,
+["src"] = 7,
+["reforge"] = 49,
+["amount"] = 76,
+},
+{
+["dst"] = 8,
+["src"] = 4,
+["reforge"] = 28,
+["amount"] = 94,
+},
+{
+["dst"] = 7,
+["src"] = 8,
+["reforge"] = 56,
+["amount"] = 94,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 96,
+},
+{
+["dst"] = 7,
+["src"] = 5,
+["reforge"] = 34,
+["amount"] = 94,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 76,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 43,
+},
+},
+["stats"] = {
+127,
+0,
+1585,
+602,
+794,
+95,
+303,
+1794,
+},
+},
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 601,
+["preset"] = 2,
+},
+},
+},
+{
+["stat"] = 7,
+["points"] = {
+{
+["value"] = 301,
+["preset"] = 6,
+},
+},
+},
+},
+["targetLevel"] = 0,
+["weights"] = {
+nil,
+nil,
+nil,
+200,
+135,
+110,
+180,
+150,
+},
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+["Gawh - Thekal"] = {
+["caps"] = {
+{
+["stat"] = 0,
+["points"] = {
+{
+["value"] = 0,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+{
+["stat"] = 0,
+["points"] = {
+{
+["value"] = 0,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+},
+["targetLevel"] = 3,
+["buffs"] = {
+},
+["itemsLocked"] = {
+},
+["weights"] = {
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+},
+},
+["Gawsharkowo - Gehennas"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 5100,
+["preset"] = 3,
+},
+},
+},
+},
+["weights"] = {
+nil,
+nil,
+nil,
+83,
+51,
+48,
+nil,
+52,
+},
+["method"] = {
+["items"] = {
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 232,
+},
+{
+},
+{
+["dst"] = 5,
+["src"] = 4,
+["reforge"] = 25,
+["amount"] = 225,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 240,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 325,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 141,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 248,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 275,
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 380,
+},
+{
+["dst"] = 4,
+["src"] = 5,
+["reforge"] = 32,
+["amount"] = 198,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 141,
+},
+{
+["dst"] = 4,
+["src"] = 8,
+["reforge"] = 53,
+["amount"] = 141,
+},
+{
+["dst"] = 8,
+["src"] = 6,
+["reforge"] = 42,
+["amount"] = 525,
+},
+{
+},
+{
+["dst"] = 4,
+["src"] = 6,
+["reforge"] = 39,
+["amount"] = 130,
+},
+{
+["dst"] = 8,
+["src"] = 5,
+["reforge"] = 35,
+["amount"] = 252,
+},
+},
+["stats"] = {
+279,
+0,
+0,
+5103,
+4208,
+3342,
+0,
+6024,
+},
+},
+["buffs"] = {
+},
+},
+["Yaboipeon - Gehennas"] = {
+["buffs"] = {
+},
+["categoryStates"] = {
+["Settings"] = true,
+},
+},
+},
+["itemSize"] = 24,
+["profileKeys"] = {
+["Gawhbanktwo - Gehennas"] = "Gawhbanktwo - Gehennas",
+["Gawsharkgodx - Gehennas"] = "Gawsharkgodx - Gehennas",
+["Gawsharkowo - Garalon"] = "Gawsharkowo - Garalon",
+["Yaboipeon - Gehennas"] = "Yaboipeon - Gehennas",
+["Ondogx - Garalon"] = "Ondogx - Garalon",
+["Yaboipeon - Garalon"] = "Yaboipeon - Garalon",
+["Gawshark - Golemagg"] = "Gawshark - Golemagg",
+["Gawsharkosák - Gehennas"] = "Gawsharkosák - Gehennas",
+["Gawsharkuwu - Garalon"] = "Gawsharkuwu - Garalon",
+["Gawhbank - Golemagg"] = "Gawhbank - Golemagg",
+["Gawsharkuwu - Gehennas"] = "Gawsharkuwu - Gehennas",
+["Gawshaark - Garalon"] = "Gawshaark - Garalon",
+["Gawsharkxd - Garalon"] = "Gawsharkxd - Garalon",
+["Gawshaark - Gehennas"] = "Gawshaark - Gehennas",
+["Gawhbanktwo - Garalon"] = "Gawhbanktwo - Garalon",
+["Gawhbank - Garalon"] = "Gawhbank - Garalon",
+["Gawhbank - Gehennas"] = "Gawhbank - Gehennas",
+["Gawsharkosák - Garalon"] = "Gawsharkosák - Garalon",
+["Gawsharkgodx - Garalon"] = "Gawsharkgodx - Garalon",
+["Gawsharkxd - Gehennas"] = "Gawsharkxd - Gehennas",
+["Gawharsk - Gehennas"] = "Gawharsk - Gehennas",
+["Gawshark - Gehennas"] = "Gawshark - Gehennas",
+["Gawharsk - Garalon"] = "Gawharsk - Garalon",
+["Gawshark - Garalon"] = "Gawshark - Garalon",
+["Flowershaark - Golemagg"] = "Flowershaark - Golemagg",
+["Ondogx - Gehennas"] = "Ondogx - Gehennas",
+["Gawhaarsk - Gehennas"] = "Gawhaarsk - Gehennas",
+["Gawsharkowo - Gehennas"] = "Gawsharkowo - Gehennas",
+["Gawhaarsk - Garalon"] = "Gawhaarsk - Garalon",
+},
+["reforgeCheat"] = 3.440893173217773,
+["customPresets"] = {
+["dungy 87lv hit"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 1742,
+["preset"] = 3,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+{
+["stat"] = 6,
+["points"] = {
+{
+["value"] = 1574,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 30,
+},
+},
+},
+},
+["weights"] = {
+0,
+0,
+0,
+90,
+80,
+70,
+0,
+20,
+},
+["name"] = "dungy 87lv hit",
+},
+["sham"] = {
+["caps"] = {
+{
+["stat"] = 6,
+["points"] = {
+{
+["value"] = 2005,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 110,
+},
+},
+},
+{
+["stat"] = 0,
+["points"] = {
+},
+},
+},
+["weights"] = {
+160,
+0,
+0,
+0,
+90,
+130,
+0,
+140,
+},
+["name"] = "sham",
+},
+["25% haste"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 1742,
+["preset"] = 3,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+{
+["stat"] = 6,
+["points"] = {
+{
+["value"] = 1542,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 50,
+},
+},
+},
+},
+["weights"] = {
+0,
+0,
+0,
+90,
+80,
+70,
+0,
+40,
+},
+["name"] = "25% haste",
+},
+["BDK mastery set"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 961,
+["preset"] = 2,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+{
+["stat"] = 7,
+["points"] = {
+{
+["value"] = 601,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+},
+["weights"] = {
+0,
+120,
+100,
+170,
+10,
+50,
+160,
+150,
+},
+["name"] = "BDK mastery set",
+},
+["mage 25% legit true"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 1742,
+["preset"] = 3,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+{
+["stat"] = 6,
+["points"] = {
+{
+["value"] = 1574,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 30,
+},
+},
+},
+},
+["weights"] = {
+0,
+0,
+0,
+90,
+80,
+70,
+0,
+20,
+},
+["name"] = "mage 25% legit true",
+},
+["mage 25% haste intent"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 1742,
+["preset"] = 3,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+{
+["stat"] = 6,
+["points"] = {
+{
+["value"] = 813,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 50,
+},
+},
+},
+},
+["weights"] = {
+0,
+0,
+0,
+90,
+80,
+70,
+0,
+40,
+},
+["name"] = "mage 25% haste intent",
+},
+["mage 15% haste no intent"] = {
+["caps"] = {
+{
+["stat"] = 4,
+["points"] = {
+{
+["value"] = 1742,
+["preset"] = 3,
+["method"] = 1,
+["after"] = 0,
+},
+},
+},
+{
+["stat"] = 6,
+["points"] = {
+{
+["value"] = 813,
+["preset"] = 1,
+["method"] = 1,
+["after"] = 30,
+},
+},
+},
+},
+["weights"] = {
+0,
+0,
+0,
+90,
+80,
+70,
+0,
+40,
+},
+["name"] = "mage 15% haste no intent",
+},
+},
+["global"] = {
+["activeWindowTitle"] = {
+0.8000000715255737,
+},
+["windowY"] = 962.7721557617188,
+["windowX"] = 496.0046691894531,
+["methodWindowY"] = 680.0294799804688,
+["windowLocation"] = {
+"TOP",
+nil,
+"TOP",
+-28.44334983825684,
+-76.40044403076172,
+["n"] = 5,
+},
+["methodWindowLocation"] = {
+"CENTER",
+nil,
+"CENTER",
+153.6004791259766,
+72.05908203125,
+["n"] = 5,
+},
+["speed"] = 38000,
+["methodWindowX"] = 1114.829833984375,
+["updateTooltip"] = true,
+},
+}

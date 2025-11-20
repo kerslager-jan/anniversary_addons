@@ -1,0 +1,9 @@
+
+BADBOY_BLACKLIST = {
+	["Player-4476-04470E7F"] = true,
+	["dayFromCal"] = 1,
+}
+BADBOY_OPTIONS = {
+	["tipSpam"] = true,
+	["noAnim"] = true,
+}

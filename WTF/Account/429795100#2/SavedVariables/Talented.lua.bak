@@ -1,0 +1,46 @@
+
+TalentedDB = {
+["profileKeys"] = {
+["Gawshaark - Gehennas"] = "Gawshaark - Gehennas",
+["Gawharsk - Gehennas"] = "Gawharsk - Gehennas",
+["Gawsharkxd - Gehennas"] = "Gawsharkxd - Gehennas",
+["Gawshark - Gehennas"] = "Gawshark - Gehennas",
+["Gawhaarsk - Gehennas"] = "Gawhaarsk - Gehennas",
+["Ondogx - Gehennas"] = "Ondogx - Gehennas",
+["Gawsharkuwu - Gehennas"] = "Gawsharkuwu - Gehennas",
+["Gawsharkowo - Gehennas"] = "Gawsharkowo - Gehennas",
+["Gawhbank - Golemagg"] = "Gawhbank - Golemagg",
+},
+["global"] = {
+["templates"] = {
+["Arcane DS"] = "amp22cmcCccaDZ3",
+["PVP fire"] = "a2Z3D2CbBccc3a3AA",
+},
+["cata"] = true,
+},
+["profiles"] = {
+["Gawshaark - Gehennas"] = {
+["last_template"] = "Arcane DS",
+},
+["Gawharsk - Gehennas"] = {
+},
+["Gawsharkxd - Gehennas"] = {
+["last_template"] = "Arcane DS",
+},
+["Gawshark - Gehennas"] = {
+},
+["Gawhaarsk - Gehennas"] = {
+["last_template"] = "Arcane DS",
+},
+["Ondogx - Gehennas"] = {
+["last_template"] = "Arcane DS",
+},
+["Gawsharkuwu - Gehennas"] = {
+["last_template"] = "Arcane DS",
+},
+["Gawsharkowo - Gehennas"] = {
+},
+["Gawhbank - Golemagg"] = {
+},
+},
+}

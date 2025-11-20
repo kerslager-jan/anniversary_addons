@@ -1,0 +1,95 @@
+
+__DEJUNK_ADDON_GLOBAL_SAVED_VARIABLES__ = {
+["includeUnsuitableEquipment"] = false,
+["merchantButton"] = true,
+["itemQualityCheckBoxes"] = {
+["includeUnsuitableEquipment"] = {
+["poor"] = true,
+["epic"] = true,
+["common"] = true,
+["uncommon"] = true,
+["rare"] = true,
+},
+["excludeWarbandEquipment"] = {
+["poor"] = true,
+["epic"] = true,
+["common"] = true,
+["uncommon"] = true,
+["rare"] = true,
+},
+["includeByQuality"] = {
+["poor"] = true,
+["epic"] = false,
+["common"] = false,
+["uncommon"] = false,
+["rare"] = false,
+},
+["excludeUnboundEquipment"] = {
+["poor"] = true,
+["epic"] = true,
+["common"] = true,
+["uncommon"] = true,
+["rare"] = true,
+},
+["includeBelowItemLevel"] = {
+["poor"] = true,
+["epic"] = true,
+["common"] = true,
+["uncommon"] = true,
+["rare"] = true,
+},
+},
+["autoRepair"] = false,
+["inclusions"] = {
+["5466"] = true,
+["2835"] = true,
+["117"] = true,
+},
+["safeMode"] = false,
+["itemTooltips"] = false,
+["includeArtifactRelics"] = false,
+["chatMessages"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 228.9868427357197,
+["hide"] = true,
+},
+["includeByQuality"] = true,
+["exclusions"] = {
+},
+["excludeEquipmentSets"] = true,
+["autoJunkFrame"] = false,
+["points"] = {
+["mainWindow"] = {
+["point"] = "CENTER",
+["offsetY"] = 50,
+["offsetX"] = 0,
+["relativePoint"] = "CENTER",
+},
+["merchantButton"] = {
+["offsetX"] = 79.7410888671875,
+["offsetY"] = -144.0518035888672,
+["point"] = "TOPLEFT",
+["relativePoint"] = "TOPLEFT",
+},
+["transportFrame"] = {
+["point"] = "CENTER",
+["offsetY"] = 50,
+["offsetX"] = 0,
+["relativePoint"] = "CENTER",
+},
+["junkFrame"] = {
+["point"] = "CENTER",
+["offsetY"] = 50,
+["offsetX"] = 0,
+["relativePoint"] = "CENTER",
+},
+},
+["autoSell"] = true,
+["excludeUnboundEquipment"] = false,
+["excludeWarbandEquipment"] = false,
+["itemIcons"] = false,
+["includeBelowItemLevel"] = {
+["enabled"] = false,
+["value"] = 0,
+},
+}

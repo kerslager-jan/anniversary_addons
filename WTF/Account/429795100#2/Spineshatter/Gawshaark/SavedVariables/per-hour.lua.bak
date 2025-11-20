@@ -1,0 +1,2 @@
+
+PerHourCharacter_Values = nil
